@@ -10,10 +10,22 @@ To learn more how these visualizations were made, [read here](https://github.com
 *Note: You support my work when you buy these books from Amazon after visiting my website.
 Links to Amazon from these explorations are affiliate links. Thank you!*
 
+
 # Hands-on Machine Learning
 
-Our first exploration starts with [Hands-On Machine Learning](https://anvaka.github.io/greview/hands-on-ml/1/) book, by Aurélien Géron
+Our first exploration starts with [Hands-On Machine Learning](https://anvaka.github.io/greview/hands-on-ml/1/) book,
+by [Aurélien Géron](https://twitter.com/aureliengeron) (@ageron)
 
 [![demo](https://i.imgur.com/a3Gjzgp.png)](https://anvaka.github.io/greview/hands-on-ml/1/)
+
+
+# Designing Data-Intensive Applications
+
+The second exploration is [Designing Data-Intensive Applications](https://anvaka.github.io/greview/ddia/1/) by [Martin Kleppmann](https://twitter.com/martinkl?lang=en)
+
+
+[![demo](https://i.imgur.com/yhqxs3H.png)](https://anvaka.github.io/greview/ddia/1/)
+
+# Feedback?
 
 Please let me know what you think: anvaka@gmail.com or https://twitter.com/anvaka
