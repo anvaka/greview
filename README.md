@@ -8,6 +8,8 @@ read (or want to read), and explore their neighbors. This is similar to https://
 Note: You support my work when you buy these books from Amazon after visiting my website.
 (Links to Amazon from these explorations are affiliate links)
 
+To learn more how these visualizations were made, [read here](https://github.com/anvaka/greview/blob/master/HOW.md)
+
 # Hands-on Machine Learning
 
 Our first exploration starts with [Hands-On Machine Learning](https://anvaka.github.io/greview/hands-on-ml/1/) book, by Aurélien Géron
