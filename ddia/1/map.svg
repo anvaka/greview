@@ -1,0 +1,787 @@
+
+<svg width="1280" height="960" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <style>/*
+  <![CDATA[ */
+    path {
+      stroke: #67B1F1;
+    }
+    text {
+      fill: #97a0a7;
+      pointer-events: none;
+    }
+    text.accent {
+      fill: #ff4081;
+    } 
+    /* ]]>*/</style>
+<g id="scene">
+  <text x="749.493629" y="247.4607" id="svg_592" font-size="24" >Patterns</text>
+  <text x="989.100419" y="178.62674" id="svg_593" font-size="18">Algorithms</text>
+  <text x="844.771139" y="83.34923" id="svg_594" font-size="24" >Java</text>
+  <text x="517.153779" y="224.44876" id="svg_595" font-size="24">Architecture</text>
+  <text x="410.975879" y="276.52841" id="svg_596" font-size="18">Management</text>
+  <text x="677.228069" y="461.83509" id="svg_599" font-size="24">SRE</text>
+  <text x="155.422219" y="293.68644" id="svg_600" font-size="18">Hadoop</text>
+  <text x="345" y="510" font-size="24" class='accent'>Start Here</text>
+  <text font-size="24" id="svg_597" y="156.992351" x="94.245397">Machine Learning</text>
+  <text font-size="18" id="svg_598" y="434" x="132">Scala</text>
+   <g id="lines">
+    <path d="m637.110649,572.82867l15.34375,-2.6875" stroke-width="2" fill="transparent" id="svg_3"/>
+    <path d="m652.438779,570.17242l0.32812,-21.03125" stroke-width="4" fill="transparent" id="svg_4"/>
+    <path d="m652.782529,549.17242l-19.95313,-21.8125" stroke-width="4" fill="transparent" id="svg_5"/>
+    <path d="m632.876279,527.31305l-0.00782,0.00781" fill="transparent" id="svg_6"/>
+    <path d="m632.868459,527.32086l0.52344,-16.96094" stroke-width="4" fill="transparent" id="svg_7"/>
+    <path d="m633.345029,510.31305l0.00781,0.00781" fill="transparent" id="svg_8"/>
+    <path d="m633.352839,510.32086l-14.24219,-15.49219" stroke-width="4" fill="transparent" id="svg_9"/>
+    <path d="m619.110649,494.82867l-5.65625,-25" stroke-width="4" fill="transparent" id="svg_10"/>
+    <path d="m613.438779,469.82867l-21.75114,-1.30194" stroke-width="2" fill="transparent" id="svg_11"/>
+    <path d="m591.701719,468.58013l-0.00611,0.00718" stroke-width="2" fill="transparent" id="svg_12"/>
+    <path d="m591.682669,468.56243l-20.57202,18.26624" stroke-width="2" fill="transparent" id="svg_13"/>
+    <path d="m571.110649,486.82867l-20,0" fill="transparent" id="svg_14"/>
+    <path d="m635.110649,629.82867l0,-19.65625" stroke-width="2" fill="transparent" id="svg_15"/>
+    <path d="m635.110649,610.1568l8,-6.32813" stroke-width="2" fill="transparent" id="svg_16"/>
+    <path d="m643.110649,603.82867l0,-8" stroke-width="2" fill="transparent" id="svg_17"/>
+    <path d="m643.110649,595.82867l8,-9" stroke-width="2" fill="transparent" id="svg_18"/>
+    <path d="m651.110649,586.82867l1.32813,-16.65625" stroke-width="2" fill="transparent" id="svg_19"/>
+    <path d="m192.423149,329.17242l-20.78125,-0.625" stroke-width="2" fill="transparent" id="svg_20"/>
+    <path d="m171.595019,328.59429l0.00782,-0.00781" fill="transparent" id="svg_21"/>
+    <path d="m171.602839,328.58648l-20.49219,17.55469" fill="transparent" id="svg_22"/>
+    <path d="m151.110649,346.17242l-18.3125,-17" stroke-width="2" fill="transparent" id="svg_23"/>
+    <path d="m151.110649,346.17242l22,22" stroke-width="2" fill="transparent" id="svg_24"/>
+    <path d="m993.110649,108.82867l19,-1" fill="transparent" id="svg_25"/>
+    <path d="m993.110649,108.82867l0.34503,-22.50649" stroke-width="2" fill="transparent" id="svg_26"/>
+    <path d="m1012.110649,107.82867l19,-21" fill="transparent" id="svg_27"/>
+    <path d="m935.110649,131.32867l17,-3.5" stroke-width="2" fill="transparent" id="svg_28"/>
+    <path d="m952.110649,127.82867l20,-19" stroke-width="2" fill="transparent" id="svg_29"/>
+    <path d="m972.110649,108.82867l21,0" stroke-width="2" fill="transparent" id="svg_30"/>
+    <path d="m874.110649,149.82867l17,-1.05029" stroke-width="6" fill="transparent" id="svg_31"/>
+    <path d="m874.110649,149.82867l-2,18" fill="transparent" id="svg_32"/>
+    <path d="m891.110649,148.8881l28.32063,4.07359" stroke-width="4" fill="transparent" id="svg_33"/>
+    <path d="m891.110649,148.89341l0,18.59151" fill="transparent" id="svg_34"/>
+    <path d="m919.437739,153.05359l0.0099,0.08015" stroke-width="2" fill="transparent" id="svg_35"/>
+    <path d="m919.457279,153.17188l13.12993,15.65679" stroke-width="2" fill="transparent" id="svg_36"/>
+    <path d="m932.598929,168.82867l-0.27344,18.47656" stroke-width="2" fill="transparent" id="svg_37"/>
+    <path d="m932.343069,187.31695l-21.23242,-0.48828" fill="transparent" id="svg_38"/>
+    <path d="m935.110649,131.32867l-2,16.97656" stroke-width="2" fill="transparent" id="svg_39"/>
+    <path d="m933.110649,148.31695l19,-0.48828" fill="transparent" id="svg_40"/>
+    <path d="m933.110649,148.34625l-0.48242,20.48242" fill="transparent" id="svg_41"/>
+    <path d="m932.628229,168.82867l20.48242,0" fill="transparent" id="svg_42"/>
+    <path d="m712.454399,328.82867l-20.76101,-0.5648" stroke-width="4" fill="transparent" id="svg_43"/>
+    <path d="m712.438779,328.82867l7.67187,-13" stroke-width="2" fill="transparent" id="svg_44"/>
+    <path d="m691.714299,328.26205l-12.60365,-1.43338" stroke-width="4" fill="transparent" id="svg_45"/>
+    <path d="m679.110649,326.82867l-26.25,0" stroke-width="4" fill="transparent" id="svg_46"/>
+    <path d="m652.860649,326.82867l18.25,19" fill="transparent" id="svg_47"/>
+    <path d="m652.860649,326.82867l-21.75,0" stroke-width="6" fill="transparent" id="svg_48"/>
+    <path d="m631.110649,326.82867l0,-20" stroke-width="6" fill="transparent" id="svg_49"/>
+    <path d="m631.110649,306.82867l1,-19.65625" stroke-width="6" fill="transparent" id="svg_50"/>
+    <path d="m632.110649,287.15679l5,-14.32812" stroke-width="6" fill="transparent" id="svg_51"/>
+    <path d="m637.110649,272.82867l14,-26" stroke-width="6" fill="transparent" id="svg_52"/>
+    <path d="m651.110649,246.82867l22.34375,-16.65625" stroke-width="6" fill="transparent" id="svg_53"/>
+    <path d="m673.438779,230.15679l23.67187,-17.32812" stroke-width="6" fill="transparent" id="svg_54"/>
+    <path d="m697.110649,212.82867l14,-6" stroke-width="6" fill="transparent" id="svg_55"/>
+    <path d="m711.110649,206.82867l0.62109,-17.13672" stroke-width="6" fill="transparent" id="svg_56"/>
+    <path d="m711.730769,189.68902l25.69238,1.13965" stroke-width="6" fill="transparent" id="svg_57"/>
+    <path d="m737.454399,190.82867l15.3125,-1.6875" stroke-width="6" fill="transparent" id="svg_58"/>
+    <path d="m752.782529,189.17242l7.32812,-13.34375" stroke-width="4" fill="transparent" id="svg_59"/>
+    <path d="m760.110649,175.82867l14.47656,-5.76563" stroke-width="4" fill="transparent" id="svg_60"/>
+    <path d="m774.598929,170.07086l-3.48828,-23.24219" fill="transparent" id="svg_61"/>
+    <path d="m774.628229,170.09039l16.48242,-3.26172" stroke-width="4" fill="transparent" id="svg_62"/>
+    <path d="m791.110649,166.82867l21,-19" stroke-width="2" fill="transparent" id="svg_63"/>
+    <path d="m812.110649,147.82867l19,0" stroke-width="4" fill="transparent" id="svg_64"/>
+    <path d="m831.110649,147.82867l22,1" stroke-width="4" fill="transparent" id="svg_65"/>
+    <path d="m853.110649,148.82867l21,1" stroke-width="4" fill="transparent" id="svg_66"/>
+    <path d="m934.110649,209.82867l-1.72363,-22.48242" stroke-width="2" fill="transparent" id="svg_67"/>
+    <path d="m932.387019,187.34625l20.72363,0.48242" fill="transparent" id="svg_68"/>
+    <path d="m954.110649,209.17242l-20,0.65625" stroke-width="2" fill="transparent" id="svg_69"/>
+    <path d="m554.798149,350.85992l-20.6875,-1.03125" stroke-width="4" fill="transparent" id="svg_70"/>
+    <path d="m534.110649,349.82867l-3.63281,-20.04297" stroke-width="6" fill="transparent" id="svg_71"/>
+    <path d="m530.475879,329.7984l-14.36523,2.03027" stroke-width="6" fill="transparent" id="svg_72"/>
+    <path d="m516.110649,331.82867l-19,1" stroke-width="6" fill="transparent" id="svg_73"/>
+    <path d="m497.110649,332.82867l-24,-3" stroke-width="6" fill="transparent" id="svg_74"/>
+    <path d="m473.110649,329.82867l-19,0" stroke-width="6" fill="transparent" id="svg_75"/>
+    <path d="m454.110649,329.82867l-20,0" stroke-width="6" fill="transparent" id="svg_76"/>
+    <path d="m434.110649,329.82867l-22.96875,18.65625" stroke-width="6" fill="transparent" id="svg_77"/>
+    <path d="m411.095019,348.50055l-3.98437,4.32812" stroke-width="2" fill="transparent" id="svg_78"/>
+    <path d="m407.110649,352.82867l0,19" stroke-width="2" fill="transparent" id="svg_79"/>
+    <path d="m407.110649,371.82867l-7.69336,6.12891" stroke-width="2" fill="transparent" id="svg_80"/>
+    <path d="m399.338189,378.01031l-0.05127,0.03418" stroke-width="2" fill="transparent" id="svg_81"/>
+    <path d="m399.255429,378.06549l-6.14478,9.76318" stroke-width="2" fill="transparent" id="svg_82"/>
+    <path d="m393.110649,387.82867l-21,-0.34375" stroke-width="2" fill="transparent" id="svg_83"/>
+    <path d="m393.110649,348.82867l4,4" fill="transparent" id="svg_84"/>
+    <path d="m397.110649,352.82867l2.14478,25.23682" fill="transparent" id="svg_85"/>
+    <path d="m393.110649,348.82867l-19.34375,0" stroke-width="2" fill="transparent" id="svg_86"/>
+    <path d="m573.110649,408.82867l-1.03125,-20.03125" stroke-width="2" fill="transparent" id="svg_87"/>
+    <path d="m572.126279,388.8443l0.2875,-25.18258" stroke-width="6" fill="transparent" id="svg_88"/>
+    <path d="m572.391509,363.69367l-5.28086,-1.865" stroke-width="4" fill="transparent" id="svg_89"/>
+    <path d="m567.110649,361.82867l-12.34375,-11.01562" stroke-width="4" fill="transparent" id="svg_90"/>
+    <path d="m58.798149,116.17242l8.3125,-7.34375" fill="transparent" id="svg_91"/>
+    <path d="m67.110649,108.82867l0,-13" fill="transparent" id="svg_92"/>
+    <path d="m67.110649,95.82867l7,-6" fill="transparent" id="svg_93"/>
+    <path d="m58.766899,116.15679l-6.25684,13.49024" stroke-width="2" fill="transparent" id="svg_94"/>
+    <path d="m52.528859,129.59967l-19.10571,-1.42725" stroke-width="2" fill="transparent" id="svg_95"/>
+    <path d="m33.454399,128.15679l-21.34375,-0.32812" stroke-width="2" fill="transparent" id="svg_96"/>
+    <path d="m36.110649,172.14117l8,-7.3125" stroke-width="2" fill="transparent" id="svg_97"/>
+    <path d="m44.110649,164.82867l0,-12" stroke-width="2" fill="transparent" id="svg_98"/>
+    <path d="m44.110649,152.82867l7,-6" stroke-width="2" fill="transparent" id="svg_99"/>
+    <path d="m36.110649,172.17242l-20,-0.34375" stroke-width="2" fill="transparent" id="svg_100"/>
+    <path d="m51.110649,146.82867l1.40015,-17.20459" stroke-width="4" fill="transparent" id="svg_101"/>
+    <path d="m52.492729,129.64849l0.01807,-0.02441" fill="transparent" id="svg_102"/>
+    <path d="m919.460509,153.15577l13.65014,-4.80952" stroke-width="2" fill="transparent" id="svg_103"/>
+    <path d="m919.449199,153.06309l-0.00885,-0.06775" stroke-width="2" fill="transparent" id="svg_104"/>
+    <path d="m1013.110649,68.82867l-19.61914,17.44521" fill="transparent" id="svg_105"/>
+    <path d="m993.459659,86.30782l-0.02757,0.03233" stroke-width="2" fill="transparent" id="svg_106"/>
+    <path d="m919.431509,152.92759l0.00884,0.06775" fill="transparent" id="svg_107"/>
+    <path d="m993.412479,86.36399l-18.30183,-15.53532" fill="transparent" id="svg_108"/>
+    <path d="m872.110649,167.82867l19,-0.32813" fill="transparent" id="svg_109"/>
+    <path d="m891.110649,126.82867l0,21.99771" fill="transparent" id="svg_110"/>
+    <path d="m891.110649,148.75936l0,0.06702" fill="transparent" id="svg_111"/>
+    <path d="m871.110649,106.82867l20,20" fill="transparent" id="svg_112"/>
+    <path d="m971.110649,186.82867l-18,1" fill="transparent" id="svg_113"/>
+    <path d="m953.110649,187.82867l0,-19" fill="transparent" id="svg_114"/>
+    <path d="m975.110649,70.82867l8,-8" fill="transparent" id="svg_115"/>
+    <path d="m983.110649,62.82867l11,0" fill="transparent" id="svg_116"/>
+    <path d="m316.110649,311.82867l18.6875,0" stroke-width="2" fill="transparent" id="svg_117"/>
+    <path d="m334.766899,311.82867l18.65625,18.65625" stroke-width="4" fill="transparent" id="svg_118"/>
+    <path d="m353.454399,330.50054l-1.65625,36.32813" stroke-width="4" fill="transparent" id="svg_119"/>
+    <path d="m351.766899,366.82867l20,0" stroke-width="4" fill="transparent" id="svg_120"/>
+    <path d="m351.766899,366.82867l-20.65625,20" stroke-width="8" fill="transparent" id="svg_121"/>
+    <path d="m331.110649,386.82867l-13,1" stroke-width="8" fill="transparent" id="svg_122"/>
+    <path d="m318.110649,387.82867l-25,1.3125" stroke-width="4" fill="transparent" id="svg_123"/>
+    <path d="m293.110649,389.17242l-38.375,-1.10937" stroke-width="4" fill="transparent" id="svg_124"/>
+    <path d="m254.798149,388.07086l-23.6875,-1.24219" stroke-width="4" fill="transparent" id="svg_125"/>
+    <path d="m231.110649,386.82867l-20,0" stroke-width="4" fill="transparent" id="svg_126"/>
+    <path d="m211.110649,386.82867l-20,0" stroke-width="2" fill="transparent" id="svg_127"/>
+    <path d="m211.110649,386.82867l0,-20" stroke-width="2" fill="transparent" id="svg_128"/>
+    <path d="m191.110649,386.82867l-18,-18.67187" stroke-width="2" fill="transparent" id="svg_129"/>
+    <path d="m256.110649,371.82867l-1.15625,16.26172" stroke-width="2" fill="transparent" id="svg_130"/>
+    <path d="m173.110649,368.1568l18,-21.32813" fill="transparent" id="svg_131"/>
+    <path d="m271.110649,426.82867l1.3125,-17.6875" fill="transparent" id="svg_132"/>
+    <path d="m272.454399,409.17242l-17.5,-21.08203" stroke-width="2" fill="transparent" id="svg_133"/>
+    <path d="m192.454399,329.15679l-1.34375,17.67188" stroke-width="2" fill="transparent" id="svg_134"/>
+    <path d="m191.110649,346.82867l20,20" stroke-width="2" fill="transparent" id="svg_135"/>
+    <path d="m298.423149,413.17242l-5.3125,-2.34375" stroke-width="2" fill="transparent" id="svg_136"/>
+    <path d="m298.454399,413.1568l13.2207,14.06054" fill="transparent" id="svg_137"/>
+    <path d="m293.110649,410.82867l-20.65625,-1.65625" stroke-width="2" fill="transparent" id="svg_138"/>
+    <path d="m211.110649,406.82867l0,-20" fill="transparent" id="svg_139"/>
+    <path d="m591.672389,468.52663l3.93435,-18.93233" stroke-width="2" fill="transparent" id="svg_140"/>
+    <path d="m591.662119,468.49083l0.01027,0.0358" fill="transparent" id="svg_141"/>
+    <path d="m598.110649,393.82867l0,35" stroke-width="6" fill="transparent" id="svg_142"/>
+    <path d="m597.110649,433.82867l-1.50195,15.75781" stroke-width="4" fill="transparent" id="svg_143"/>
+    <path d="m595.613579,449.56695l-24.50293,-2.73828" fill="transparent" id="svg_144"/>
+    <path d="m572.126279,388.8443l25.98437,4.98437" stroke-width="6" fill="transparent" id="svg_145"/>
+    <path d="m651.110649,446.82867l-19,1" fill="transparent" id="svg_146"/>
+    <path d="m632.110649,447.82867l-19.71875,-0.23437" stroke-width="2" fill="transparent" id="svg_147"/>
+    <path d="m612.376279,447.58648l1.0625,22.24219" stroke-width="2" fill="transparent" id="svg_148"/>
+    <path d="m612.337209,447.56695l-16.72363,2" stroke-width="2" fill="transparent" id="svg_149"/>
+    <path d="m373.782519,348.82867l-2,18" stroke-width="4" fill="transparent" id="svg_150"/>
+    <path d="m371.782519,366.82867l0.32813,20.67188" stroke-width="2" fill="transparent" id="svg_151"/>
+    <path d="m353.454399,330.50054l20.65625,0.32813" stroke-width="2" fill="transparent" id="svg_152"/>
+    <path d="m311.701469,427.23004l0.01709,0.00244" fill="transparent" id="svg_153"/>
+    <path d="m374.110649,330.82867l-0.32813,18" stroke-width="2" fill="transparent" id="svg_154"/>
+    <path d="m318.110649,402.82867l0,-15" stroke-width="4" fill="transparent" id="svg_155"/>
+    <path d="m312.110649,407.82867l6,-5" stroke-width="4" fill="transparent" id="svg_156"/>
+    <path d="m312.110649,407.82867l-0.38159,19.40308" fill="transparent" id="svg_157"/>
+    <path d="m298.454399,413.1568l13.65625,-5.32813" stroke-width="2" fill="transparent" id="svg_158"/>
+    <path d="m600.766899,356.48492l-5.65625,5.34375" stroke-width="2" fill="transparent" id="svg_159"/>
+    <path d="m595.110649,361.82867l-22.73074,1.88077" stroke-width="2" fill="transparent" id="svg_160"/>
+    <path d="m572.383539,363.70306l-5.27289,-1.87439" fill="transparent" id="svg_161"/>
+    <path d="m411.095019,348.50055l-17.98437,0.32812" stroke-width="2" fill="transparent" id="svg_162"/>
+    <path d="m372.110649,387.50055l-10,8.32812" fill="transparent" id="svg_163"/>
+    <path d="m362.110649,395.82867l-1,22" fill="transparent" id="svg_164"/>
+    <path d="m361.110649,417.82867l-10,9" fill="transparent" id="svg_165"/>
+    <path d="m691.704179,328.25719l-0.01794,-0.00264" fill="transparent" id="svg_166"/>
+    <path d="m691.661799,328.25478l-0.00448,-0.00066" fill="transparent" id="svg_167"/>
+    <path d="m671.110649,345.82867l20.54667,-17.57455" fill="transparent" id="svg_168"/>
+    <path d="m600.782529,356.50055l5.32812,-5.67188" stroke-width="2" fill="transparent" id="svg_169"/>
+    <path d="m606.110649,350.82867l1.55726,-21.54224" stroke-width="2" fill="transparent" id="svg_170"/>
+    <path d="m607.627869,329.38361l-0.04038,0.10027" stroke-width="2" fill="transparent" id="svg_171"/>
+    <path d="m607.556799,329.55962l23.55385,-2.73095" stroke-width="4" fill="transparent" id="svg_172"/>
+    <path d="m530.533499,329.51763l-0.00049,0.00318" stroke-width="2" fill="transparent" id="svg_173"/>
+    <path d="m530.533009,329.52081l22.271,-1.56323" stroke-width="2" fill="transparent" id="svg_174"/>
+    <path d="m552.883109,328.01031l0.05127,0.03418" stroke-width="2" fill="transparent" id="svg_175"/>
+    <path d="m552.965869,328.06549l22.67578,1.93479" stroke-width="2" fill="transparent" id="svg_176"/>
+    <path d="m575.574009,329.92999l19.53664,-1.10132" stroke-width="2" fill="transparent" id="svg_177"/>
+    <path d="m595.110649,328.82867l12.43536,0.7572" stroke-width="2" fill="transparent" id="svg_178"/>
+    <path d="m607.569849,329.52864l0.03498,-0.08436" stroke-width="2" fill="transparent" id="svg_179"/>
+    <path d="m311.729059,427.23175l20.38159,0.59692" stroke-width="2" fill="transparent" id="svg_180"/>
+    <path d="m332.110649,427.82867l19,-1" fill="transparent" id="svg_181"/>
+    <path d="m36.110649,172.17242l0,19.65625" stroke-width="4" fill="transparent" id="svg_182"/>
+    <path d="m36.110649,191.82867l16.5,-0.5" stroke-width="4" fill="transparent" id="svg_183"/>
+    <path d="m52.610649,191.32867l-0.5,35.5" stroke-width="4" fill="transparent" id="svg_184"/>
+    <path d="m52.110649,226.82867l1.65625,23.3125" stroke-width="2" fill="transparent" id="svg_185"/>
+    <path d="m53.782519,250.17242l0.32813,19.65625" stroke-width="2" fill="transparent" id="svg_186"/>
+    <path d="m54.110649,269.82867l22,1.6875" stroke-width="2" fill="transparent" id="svg_187"/>
+    <path d="m76.110649,271.48492l18,19.34375" stroke-width="2" fill="transparent" id="svg_188"/>
+    <path d="m94.110649,290.82867l-0.75781,37" fill="transparent" id="svg_189"/>
+    <path d="m93.350879,327.82867l18.75977,0" stroke-width="2" fill="transparent" id="svg_190"/>
+    <path d="m112.110649,327.82867l20.65625,1.32812" stroke-width="2" fill="transparent" id="svg_191"/>
+    <path d="m132.766899,329.15679l-1.65625,-22.32812" fill="transparent" id="svg_192"/>
+    <path d="m16.110649,171.82867l-4,-24" fill="transparent" id="svg_193"/>
+    <path d="m52.610649,191.32867l0,0" stroke-width="2" fill="transparent" id="svg_194"/>
+    <path d="m76.110649,251.82867l-22.32813,-1.65625" fill="transparent" id="svg_195"/>
+    <path d="m35.110649,110.82867l-1.65625,17.32812" stroke-width="2" fill="transparent" id="svg_196"/>
+    <path d="m575.538759,329.88247l0.00807,-0.00318" fill="transparent" id="svg_197"/>
+    <path d="m575.585109,329.91609l-3.18777,33.76788" fill="transparent" id="svg_198"/>
+    <path d="m598.110649,314.48492l-25.3125,-5.28125" stroke-width="2" fill="transparent" id="svg_199"/>
+    <path d="m598.110649,314.50054l-3,14.32813" fill="transparent" id="svg_200"/>
+    <path d="m675.110649,311.82867l-6,7" stroke-width="2" fill="transparent" id="svg_201"/>
+    <path d="m669.110649,318.82867l-11,1" stroke-width="2" fill="transparent" id="svg_202"/>
+    <path d="m658.110649,319.82867l-5.25,7" stroke-width="2" fill="transparent" id="svg_203"/>
+    <path d="m575.659899,330.00095l0.00957,0.0092" fill="transparent" id="svg_204"/>
+    <path d="m607.637639,329.36466l-9.52699,-14.86412" stroke-width="2" fill="transparent" id="svg_205"/>
+    <path d="m572.766899,309.14117l2.90257,20.86898" fill="transparent" id="svg_206"/>
+    <path d="m572.411139,363.66487l-0.0138,0.0191" stroke-width="2" fill="transparent" id="svg_207"/>
+    <path d="m993.110649,228.82867l-21,-2" stroke-width="2" fill="transparent" id="svg_208"/>
+    <path d="m972.110649,226.82867l0,-18" stroke-width="2" fill="transparent" id="svg_209"/>
+    <path d="m972.110649,208.82867l-18,0.32812" stroke-width="2" fill="transparent" id="svg_210"/>
+    <path d="m954.110649,209.15679l-1,-21.32812" fill="transparent" id="svg_211"/>
+    <path d="m1012.110649,247.82867l-19,-19" fill="transparent" id="svg_212"/>
+    <path d="m953.110649,168.82867l-1,-21" fill="transparent" id="svg_213"/>
+    <path d="m331.110649,286.82867l3.65625,25" fill="transparent" id="svg_214"/>
+    <path d="m93.283499,327.82867l-0.00049,0" fill="transparent" id="svg_215"/>
+    <path d="m72.110649,327.82867l21.17236,0" fill="transparent" id="svg_216"/>
+    <path d="m12.110649,147.82867l0,-20" stroke-width="2" fill="transparent" id="svg_217"/>
+    <path d="m675.110649,550.82867l-22.32812,-1.65625" stroke-width="2" fill="transparent" id="svg_218"/>
+    <path d="m616.110649,592.48492l21,-19.65625" stroke-width="2" fill="transparent" id="svg_219"/>
+    <path d="m613.110649,629.48492l3,-36.98437" fill="transparent" id="svg_220"/>
+    <path d="m613.110649,629.50055l22,0.32812" stroke-width="2" fill="transparent" id="svg_221"/>
+    <path d="m611.610649,428.82867l0.72656,18.73828" stroke-width="2" fill="transparent" id="svg_222"/>
+    <path d="m607.670449,329.28504l-0.03281,0.07962" fill="transparent" id="svg_223"/>
+    <path d="m611.610649,428.82867l-13.5,0" stroke-width="2" fill="transparent" id="svg_224"/>
+    <path d="m76.110649,271.48492l0,-19.65625" fill="transparent" id="svg_225"/>
+    <path d="m52.110649,87.82867l4,4" fill="transparent" id="svg_226"/>
+    <path d="m56.110649,91.82867l2.65625,24.32812" fill="transparent" id="svg_227"/>
+    <path d="m711.110649,346.82867l1.32813,-18" fill="transparent" id="svg_228"/>
+    <path d="m616.110649,592.50055l19,17.65625" fill="transparent" id="svg_229"/>
+    <path d="m591.110649,666.82867l21,-19" fill="transparent" id="svg_230"/>
+    <path d="m612.110649,647.82867l1,-18.32812" stroke-width="2" fill="transparent" id="svg_231"/>
+    <path d="m911.110649,186.82867l-20,-19.32813" fill="transparent" id="svg_232"/>
+    <path d="m293.110649,389.17242l0,21.65625" fill="transparent" id="svg_233"/>
+    <path d="m554.766899,350.81305l-1.80103,-22.74756" fill="transparent" id="svg_234"/>
+    <path d="m775.610649,191.32867l0,0" stroke-width="2" fill="transparent" id="svg_235"/>
+    <path d="m775.610649,191.32867l-22.82812,-2.15625" stroke-width="2" fill="transparent" id="svg_236"/>
+    <path d="m611.110649,286.32867l21,0.82812" fill="transparent" id="svg_237"/>
+    <path d="m737.110649,152.82867l1.3125,22" stroke-width="2" fill="transparent" id="svg_238"/>
+    <path d="m738.454399,174.82867l-1,16" stroke-width="2" fill="transparent" id="svg_239"/>
+    <path d="m738.454399,174.82867l21.65625,1" fill="transparent" id="svg_240"/>
+    <path d="m679.110649,314.82867l-4,-3" fill="transparent" id="svg_241"/>
+    <path d="m679.110649,314.82867l0,12" fill="transparent" id="svg_242"/>
+    <path d="m211.110649,306.82867l-18.65625,22.32812" fill="transparent" id="svg_243"/>
+    <path d="m571.860649,287.32867l0,0" fill="transparent" id="svg_244"/>
+    <path d="m571.860649,287.32867l0.90625,21.8125" fill="transparent" id="svg_245"/>
+    <path d="m591.110649,267.82867l-19.25,19.5" fill="transparent" id="svg_246"/>
+    <path d="m995.110649,50.82867l-1,12" fill="transparent" id="svg_247"/>
+    <path d="m994.110649,62.82867l-0.69817,23.53532" fill="transparent" id="svg_248"/>
+    <path d="m1011.110649,26.82867l-16,24" fill="transparent" id="svg_249"/>
+    <path d="m611.110649,366.82867l-10.32812,-10.32812" fill="transparent" id="svg_250"/>
+    <path d="m672.110649,187.57867l0,0" fill="transparent" id="svg_251"/>
+    <path d="m672.110649,187.57867l1.32813,42.57812" fill="transparent" id="svg_252"/>
+    <path d="m711.697079,189.58795l-0.00025,-0.00074" stroke-width="2" fill="transparent" id="svg_253"/>
+    <path d="m774.628229,170.09039l0.98242,21.23828" fill="transparent" id="svg_254"/>
+    <path d="m611.110649,286.32867l-20,-18.5" fill="transparent" id="svg_255"/>
+    <path d="m672.110649,187.57867l39.58618,2.00854" fill="transparent" id="svg_256"/>
+   </g>
+   <g id="nodes">
+    <a xlink:href="https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1491977086?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491977086" id="svg_258">
+     <image width="19.8" height="25.96721" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ycjTQzt-L._SL160_.jpg" y="542.99454" x="620.406079" id="svg_259"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Certified-Solutions-Architect-Official-Study/dp/1119138558?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119138558" id="svg_260">
+     <image width="9" height="11.25" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51%2BQOHQobeL._SL160_.jpg" y="491.84643" x="555.639439" id="svg_261"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1521822808" id="svg_262">
+     <image width="16.2" height="19.93846" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41ezQUbBYOL._SL160_.jpg" y="614.46492" x="643.057129" id="svg_263"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hadoop-Application-Architectures-Real-World-Applications/dp/1491900083?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491900083" id="svg_264">
+     <image width="13.5" height="17.70492" xlink:href="https://images-na.ssl-images-amazon.com/images/I/516fkh0hJYL._SL160_.jpg" y="324.59498" x="200.425269" id="svg_265"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Big-Data-Practice-Successful-Extraordinary/dp/1119231388?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119231388" id="svg_266">
+     <image width="9" height="14.11765" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51b5atTzhVL._SL160_.jpg" y="338.74852" x="168.536479" id="svg_267"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Learn-Java-Well-Coding-Fast/dp/1539397831?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1539397831" id="svg_268">
+     <image width="12.6" height="18.84112" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51EiK3ZfvJL._SL160_.jpg" y="89.02963" x="955.541079" id="svg_269"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Java-All-One-Dummies-Computers/dp/1119247799?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119247799" id="svg_270">
+     <image width="10.8" height="13.5" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51fmQZieLYL._SL160_.jpg" y="151.72213" x="937.264939" id="svg_271"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Java-Beginners-Seventh-Herbert-Schildt/dp/1259589315?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1259589315" id="svg_272">
+     <image width="17.1" height="21.375" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41SfK-5%2BD9L._SL160_.jpg" y="101.61487" x="934.283179" id="svg_273"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Java-Complete-Reference-Tenth/dp/1259589331?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1259589331" id="svg_274">
+     <image width="15.3" height="19.125" xlink:href="https://images-na.ssl-images-amazon.com/images/I/510SEck1hNL._SL160_.jpg" y="152.16038" x="853.441769" id="svg_275"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/OCA-OCP-Java-Programmer-Certification/dp/1119272092?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119272092" id="svg_276">
+     <image width="9.9" height="12.0916" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51dL3m3Ay6L._SL160_.jpg" y="165.60292" x="917.474419" id="svg_277"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134685997" id="svg_278">
+     <image width="25.2" height="31.25581" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51C2-oWryCL._SL160_.jpg" y="115.15428" x="895.485789" id="svg_279"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321349601" id="svg_280">
+     <image width="13.5" height="17.85124" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ezEd0Lw6L._SL160_.jpg" y="304.97145" x="695.324379" id="svg_281"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517671272?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1517671272" id="svg_282">
+     <image width="14.4" height="20.57143" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51EjkypFE0L._SL160_.jpg" y="191.40283" x="911.896639" id="svg_283"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0984782850" id="svg_284">
+     <image width="14.4" height="20.57143" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41GWhKc9%2BvL._SL160_.jpg" y="214.79129" x="936.838789" id="svg_285"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1942788002" id="svg_286">
+     <image width="18.9" height="29.07692" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Z6uQ57ilL._SL160_.jpg" y="359.93098" x="538.685399" id="svg_287"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/DevOps-Adoption-Playbook-Multi-Speed-Enterprise/dp/1119308747?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119308747" id="svg_288">
+     <image width="12.6" height="18.84112" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41fd0acB0XL._SL160_.jpg" y="353.05752" x="418.853779" id="svg_289"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1942788339" id="svg_290">
+     <image width="18.9" height="28.5283" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41TLwbsl8eL._SL160_.jpg" y="338.44526" x="480.784799" id="svg_291"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Leading-Transformation-Applying-DevOps-Principles/dp/1942788010?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1942788010" id="svg_292">
+     <image width="13.5" height="20.18692" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51oaKXlYHgL._SL160_.jpg" y="302.38795" x="498.215689" id="svg_293"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1942788290" id="svg_294">
+     <image width="19.8" height="29.60748" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51zJtQeycpL._SL160_.jpg" y="292.76013" x="476.047009" id="svg_295"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491926309" id="svg_296">
+     <image width="12.6" height="15.50769" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51MRXHul4NL._SL160_.jpg" y="396.62585" x="575.875809" id="svg_297"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Making-Work-Visible-Exposing-Optimize/dp/1942788150?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1942788150" id="svg_298">
+     <image width="13.5" height="20.18692" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41I%2BWzEHCML._SL160_.jpg" y="306.23522" x="454.053369" id="svg_299"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Seat-Table-Leadership-Age-Agility/dp/1942788118?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1942788118" id="svg_300">
+     <image width="14.4" height="21.53271" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51x0YwoggUL._SL160_.jpg" y="335.82628" x="455.322329" id="svg_301"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491962291" id="svg_302">
+     <image width="25.2" height="33.04918" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51BKMchWqnL._SL160_.jpg" y="89.73572" x="74.042427" id="svg_303"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119482089" id="svg_304">
+     <image width="11.7" height="17.33333" xlink:href="https://images-na.ssl-images-amazon.com/images/I/510Y06jmTTL._SL160_.jpg" y="126.162073" x="-2.552988" id="svg_305"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1617294438" id="svg_306">
+     <image width="18.9" height="23.625" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41kxrQD7R%2BL._SL160_.jpg" y="195.765038" x="24.892677" id="svg_307"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491953241" id="svg_308">
+     <image width="14.4" height="18.88525" xlink:href="https://images-na.ssl-images-amazon.com/images/I/519V8AyMGqL._SL160_.jpg" y="128.5135" x="56.488609" id="svg_309"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0262035618" id="svg_310">
+     <image width="14.4" height="19.2" xlink:href="https://images-na.ssl-images-amazon.com/images/I/61fim5QqaqL._SL160_.jpg" y="103.425419" x="36.875254" id="svg_311"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0596009208" id="svg_312">
+     <image width="13.5" height="15.65217" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Gsycdh-TL._SL160_.jpg" y="88.20806" x="973.454289" id="svg_313"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Android-Programming-Ranch-Guide-Guides/dp/0134706056?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134706056" id="svg_314">
+     <image width="11.7" height="16.42105" xlink:href="https://images-na.ssl-images-amazon.com/images/I/412puBdQscL._SL160_.jpg" y="118.6194" x="965.169659" id="svg_315"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Head-First-Android-Development-Brain-Friendly/dp/1491974052?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491974052" id="svg_316">
+     <image width="10.8" height="12.52174" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51JzIa4VpML._SL160_.jpg" y="88.35565" x="998.755219" id="svg_317"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Java-Pocket-Guide-Instant-Programmers/dp/1491938692?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491938692" id="svg_318">
+     <image width="9.9" height="16.3299" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51YysOZLp1L._SL160_.jpg" y="54.3099" x="997.486099" id="svg_319"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Android-Studio-3-0-Development-Essentials/dp/1977540090?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1977540090" id="svg_320">
+     <image width="10.8" height="13.39535" xlink:href="https://images-na.ssl-images-amazon.com/images/I/517AQoc-JTL._SL160_.jpg" y="62.8145" x="962.536689" id="svg_321"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Programming-Absolute-Beginners-Guide-3rd/dp/0789751984?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0789751984" id="svg_322">
+     <image width="11.7" height="14.51163" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41dMLPDNKaL._SL160_.jpg" y="112.62031" x="1000.151929" id="svg_323"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Core-Java-I-Fundamentals-10th/dp/0134177304?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134177304" id="svg_324">
+     <image width="10.8" height="13.824" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41dHD22LDJL._SL160_.jpg" y="169.7334" x="876.524259" id="svg_325"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Murachs-Java-Programming-Joel-Murach/dp/1943872074?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1943872074" id="svg_326">
+     <image width="9.9" height="12.375" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Imd%2Bel3cL._SL160_.jpg" y="100.43781" x="885.242619" id="svg_327"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0596805527" id="svg_328">
+     <image width="9.9" height="12.98361" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51WD-F3GobL._SL160_.jpg" y="112.58726" x="861.548019" id="svg_329"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Pro-Spring-Depth-Guide-Framework/dp/1484228073?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1484228073" id="svg_330">
+     <image width="9.9" height="14.14286" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41Wenr9Zz7L._SL160_.jpg" y="171.50974" x="938.108189" id="svg_331"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/C-Programming-Language-4th/dp/0321563840?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321563840" id="svg_332">
+     <image width="16.2" height="21.78151" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51KEqIsBa4L._SL160_.jpg" y="54.97697" x="1020.374999" id="svg_333"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hadoop-Definitive-Storage-Analysis-Internet/dp/1491901632?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491901632" id="svg_334">
+     <image width="18" height="23.60656" xlink:href="https://images-na.ssl-images-amazon.com/images/I/516rvd4qymL._SL160_.jpg" y="312.02539" x="319.179289" id="svg_335"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Programming-Hive-Warehouse-Language-Hadoop/dp/1449319335?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449319335" id="svg_336">
+     <image width="12.6" height="16.52459" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ZaH8c9D4L._SL160_.jpg" y="384.17326" x="168.202229" id="svg_337"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449358624" id="svg_338">
+     <image width="18" height="23.60656" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51XrCqZKo1L._SL160_.jpg" y="359.19298" x="229.710419" id="svg_339"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Programming-Pig-Dataflow-Scripting-Hadoop/dp/1491937092?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491937092" id="svg_340">
+     <image width="9.9" height="12.87805" xlink:href="https://images-na.ssl-images-amazon.com/images/I/514jJnrgsTL._SL160_.jpg" y="368.06587" x="213.660639" id="svg_341"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Data-Analytics-Hadoop-Introduction-Scientists/dp/1491913703?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491913703" id="svg_342">
+     <image width="15.3" height="20.74576" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51bkORZHiLL._SL160_.jpg" y="343.90857" x="124.707089" id="svg_343"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/HBase-Definitive-Random-Access-Planet-Size/dp/1449396100?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449396100" id="svg_344">
+     <image width="9.9" height="12.98361" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51OcYjwWI9L._SL160_.jpg" y="409.52486" x="260.285429" id="svg_345"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Apache-Sqoop-Cookbook-Unlocking-Relational/dp/1449364624?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449364624" id="svg_346">
+     <image width="9.9" height="13.09091" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51qKZlLl6UL._SL160_.jpg" y="392.36331" x="195.120939" id="svg_347"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1491936169?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491936169" id="svg_348">
+     <image width="21.6" height="28.32787" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51W3kykfGvL._SL160_.jpg" y="418.3379" x="275.891199" id="svg_349"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Getting-Started-Impala-Interactive-Apache/dp/1491905778?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491905778" id="svg_350">
+     <image width="9" height="11.80328" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51psvDL7pEL._SL160_.jpg" y="392.62973" x="212.610649" id="svg_351"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491912219" id="svg_352">
+     <image width="18" height="23.60656" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51u80Ra18-L._SL160_.jpg" y="355.06677" x="376.897909" id="svg_353"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hadoop-Operations-Guide-Developers-Administrators/dp/1449327052?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449327052" id="svg_354">
+     <image width="9" height="11.70732" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51MXFYjl3rL._SL160_.jpg" y="347.22302" x="210.226929" id="svg_355"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hadoop-Security-Protecting-Your-Platform/dp/1491900989?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491900989" id="svg_356">
+     <image width="9.9" height="12.98361" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41eJJzXGgTL._SL160_.jpg" y="366.54417" x="193.485119" id="svg_357"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Expert-Hadoop-Administration-Addison-Wesley-Analytics/dp/0134597192?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134597192" id="svg_358">
+     <image width="9" height="11.70732" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51L2X9PkXhL._SL160_.jpg" y="393.35965" x="229.649109" id="svg_359"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Practical-Monitoring-Effective-Strategies-World/dp/1491957352?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491957352" id="svg_360">
+     <image width="15.3" height="20.06557" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51qLBZbOmqL._SL160_.jpg" y="474.77913" x="596.709749" id="svg_361"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Effective-Monitoring-Alerting-Web-Operations/dp/1449333524?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449333524" id="svg_362">
+     <image width="9.9" height="13.89474" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51%2BSYJ-8oBL._SL160_.jpg" y="484.13561" x="580.914659" id="svg_363"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=149192912X" id="svg_364">
+     <image width="21.6" height="28.32787" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51RT0Hlr4zL._SL160_.jpg" y="395.35377" x="603.897639" id="svg_365"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491983647" id="svg_366">
+     <image width="20.7" height="27.14754" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51miKsBopHL._SL160_.jpg" y="416.12341" x="569.416039" id="svg_367"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491935677" id="svg_368">
+     <image width="24.3" height="31.86885" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Wf2nQa43L._SL160_.jpg" y="468.09684" x="631.489169" id="svg_369"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1492029505" id="svg_370">
+     <image width="16.2" height="21.2459" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Cf8P7WTAL._SL160_.jpg" y="450.50294" x="568.173099" id="svg_371"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Database-Reliability-Engineering-Designing-Operating/dp/1491925949?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491925949" id="svg_372">
+     <image width="9.9" height="12.98361" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51UvR3a63OL._SL160_.jpg" y="368.18866" x="577.660649" id="svg_373"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Cloud-Native-Infrastructure-Applications-Environment/dp/1491984309?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491984309" id="svg_374">
+     <image width="9.9" height="13.09091" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51lI2cTYlOL._SL160_.jpg" y="428.44039" x="648.858699" id="svg_375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1492034142" id="svg_376">
+     <image width="9.9" height="12.98361" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51UwkEEWlUL._SL160_.jpg" y="468.99225" x="551.223569" id="svg_377"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0981531687" id="svg_378">
+     <image width="13.5" height="17.85124" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51y4d3qeABL._SL160_.jpg" y="386.70445" x="340.961149" id="svg_379"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449339611" id="svg_380">
+     <image width="10.8" height="14.16393" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51CHUHfCEtL._SL160_.jpg" y="368.54898" x="260.344819" id="svg_381"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1617290653" id="svg_382">
+     <image width="10.8" height="13.5" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41C%2BoHAw-fL._SL160_.jpg" y="395.42488" x="245.701279" id="svg_383"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Scala-Impatient-2nd-Cay-Horstmann/dp/0134540565?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134540565" id="svg_384">
+     <image width="12.6" height="16.66116" xlink:href="https://images-na.ssl-images-amazon.com/images/I/514y-sLRbkL._SL160_.jpg" y="367.4795" x="279.540669" id="svg_385"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/High-Performance-Spark-Practices-Optimizing/dp/1491943203?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491943203" id="svg_386">
+     <image width="15.3" height="20.06557" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51PihcIj7oL._SL160_.jpg" y="335.93865" x="355.556619" id="svg_387"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Functional-Programming-Simplified-Alvin-Alexander/dp/1979788782?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1979788782" id="svg_388">
+     <image width="9.9" height="14.14286" xlink:href="https://images-na.ssl-images-amazon.com/images/I/513OXgQ-SbL._SL160_.jpg" y="391.9412" x="276.882939" id="svg_389"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491972955?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491972955" id="svg_390">
+     <image width="15.3" height="20.06557" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51JEpI47vXL._SL160_.jpg" y="321.08343" x="382.612719" id="svg_391"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Cassandra-Definitive-Guide-Distributed-Scale/dp/1491933666?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491933666" id="svg_392">
+     <image width="10.8" height="14.16393" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51kAryuHekL._SL160_.jpg" y="410.15657" x="315.123669" id="svg_393"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/MongoDB-Definitive-Powerful-Scalable-Storage/dp/1449344682?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449344682" id="svg_394">
+     <image width="9" height="11.70732" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51gzqnIpxQL._SL160_.jpg" y="373.40425" x="302.699869" id="svg_395"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491950358" id="svg_396">
+     <image width="26.1" height="34.22951" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51m85J4Zi9L._SL160_.jpg" y="334.39263" x="614.203409" id="svg_397"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449373321" id="svg_398">
+     <image width="65.95881" height="72.75378" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51hOYx8BxXL._SL160_.jpg" y="392.52925" x="374.395139" id="svg_399"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Java-Performance-Definitive-Guide-Getting/dp/1449358454?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449358454" id="svg_400">
+     <image width="9" height="11.6129" xlink:href="https://images-na.ssl-images-amazon.com/images/I/517GW6mfh8L._SL160_.jpg" y="339.8072" x="651.930709" id="svg_401"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1617291994" id="svg_402">
+     <image width="9.9" height="12.375" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51JNZZSTmFL._SL160_.jpg" y="336.26057" x="688.143159" id="svg_403"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Elasticsearch-Definitive-Distributed-Real-Time-Analytics/dp/1449358543?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449358543" id="svg_404">
+     <image width="9" height="11.80328" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51V-yC0%2BY2L._SL160_.jpg" y="431.26227" x="341.105439" id="svg_405"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/ZooKeeper-Distributed-Coordination-Flavio-Junqueira/dp/1449361307?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449361307" id="svg_406">
+     <image width="10.8" height="14.16393" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51i4PhjGbYL._SL160_.jpg" y="431.57273" x="326.180529" id="svg_407"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321601912" id="svg_408">
+     <image width="14.4" height="18.58065" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51NbiDn81NL._SL160_.jpg" y="306.53835" x="436.454919" id="svg_409"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449368425" id="svg_410">
+     <image width="11.7" height="17.82857" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51khuKozg5L._SL160_.jpg" y="338.60561" x="437.769269" id="svg_411"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449369413" id="svg_412">
+     <image width="18" height="23.60656" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ZPksI0E9L._SL160_.jpg" y="226.296255" x="30.360588" id="svg_413"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491957662" id="svg_414">
+     <image width="18.9" height="24.78689" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51lod1FJujL._SL160_.jpg" y="285.60948" x="64.432459" id="svg_415"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491912057" id="svg_416">
+     <image width="18" height="23.04" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51MPp7yuZCL._SL160_.jpg" y="146.71489" x="17.080055" id="svg_417"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491989386" id="svg_418">
+     <image width="14.4" height="18.73171" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51G-gYR-wiL._SL160_.jpg" y="168.785366" x="43.446022" id="svg_419"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=149190142X" id="svg_420">
+     <image width="16.2" height="21.2459" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51dZW9t3GeL._SL160_.jpg" y="290.9879" x="96.010649" id="svg_421"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1787125939" id="svg_422">
+     <image width="12.6" height="15.50769" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41wDUrTO34L._SL160_.jpg" y="252.301111" x="35.129989" id="svg_423"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491952962" id="svg_424">
+     <image width="18.9" height="24.78689" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51eHpmk4hdL._SL160_.jpg" y="217.986853" x="56.797401" id="svg_425"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Deep-Learning-Practitioners-Josh-Patterson/dp/1491914254?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491914254" id="svg_426">
+     <image width="16.2" height="21.2459" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51P-ZUnCMbL._SL160_.jpg" y="102.496953" x="14.18048" id="svg_427"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491910399" id="svg_428">
+     <image width="15.3" height="22.8785" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51XHOt2Tt8L._SL160_.jpg" y="250.887545" x="89.415889" id="svg_429"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491986360" id="svg_430">
+     <image width="12.84423" height="18.73111" xlink:href="https://images-na.ssl-images-amazon.com/images/I/61SX1kS9sKL._SL160_.jpg" y="330.77836" x="559.156249" id="svg_431"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1680502395" id="svg_432">
+     <image width="14.4" height="17.72308" xlink:href="https://images-na.ssl-images-amazon.com/images/I/414CRjLjwgL._SL160_.jpg" y="305.15311" x="536.366239" id="svg_433"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321127420" id="svg_434">
+     <image width="22.5" height="29.03226" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51IuDvAU1CL._SL160_.jpg" y="279.64752" x="581.267099" id="svg_435"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321125215" id="svg_436">
+     <image width="17.1" height="22.61157" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL._SL160_.jpg" y="286.52529" x="669.972669" id="svg_437"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1457501198" id="svg_438">
+     <image width="9.9" height="15.23077" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51J47nQ9CbL._SL160_.jpg" y="334.63381" x="593.660659" id="svg_439"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321834577" id="svg_440">
+     <image width="9.9" height="13.53846" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51DAelADFFL._SL160_.jpg" y="308.69313" x="616.275529" id="svg_441"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134434420" id="svg_442">
+     <image width="9.9" height="12.87805" xlink:href="https://images-na.ssl-images-amazon.com/images/I/513oaR5IHqL._SL160_.jpg" y="308.88965" x="633.542299" id="svg_443"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134494164" id="svg_444">
+     <image width="25.2" height="33.04918" xlink:href="https://images-na.ssl-images-amazon.com/images/I/516tg-5b2ZL._SL160_.jpg" y="318.59335" x="723.929579" id="svg_445"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321200683" id="svg_446">
+     <image width="11.7" height="15.47107" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51eqtvacK7L._SL160_.jpg" y="288.53257" x="555.934629" id="svg_447"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1537713949" id="svg_448">
+     <image width="13.5" height="19.28571" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41G67wdhJKL._SL160_.jpg" y="201.54351" x="994.667449" id="svg_449"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1479274836" id="svg_450">
+     <image width="11.7" height="17.49533" xlink:href="https://images-na.ssl-images-amazon.com/images/I/414Gsyd-S9L._SL160_.jpg" y="204.4951" x="975.375519" id="svg_451"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=111941847X" id="svg_452">
+     <image width="11.7" height="14.625" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51o0US5MT6L._SL160_.jpg" y="238.58008" x="986.047319" id="svg_453"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1849967202" id="svg_454">
+     <image width="12.6" height="16.66116" xlink:href="https://images-na.ssl-images-amazon.com/images/I/5186uqUuDUL._SL160_.jpg" y="166.9334" x="955.260729" id="svg_455"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491912766?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491912766" id="svg_456">
+     <image width="9.9" height="12.98361" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51%2BYaJ4S98L._SL160_.jpg" y="294.76605" x="320.005179" id="svg_457"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1617290343" id="svg_458">
+     <image width="9.9" height="12.375" xlink:href="https://images-na.ssl-images-amazon.com/images/I/511OYdWSVvL._SL160_.jpg" y="358.45271" x="329.257229" id="svg_459"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hadoop-Quick-Start-Guide-Essentials-Addison-wesley/dp/0134049942?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134049942" id="svg_460">
+     <image width="9.9" height="12.87805" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51xxQmHzy3L._SL160_.jpg" y="318.69031" x="152.393709" id="svg_461"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Graph-Databases-Opportunities-Connected-Data/dp/1491930896?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491930896" id="svg_462">
+     <image width="11.7" height="15.34426" xlink:href="https://images-na.ssl-images-amazon.com/images/I/5134ExT3gFL._SL160_.jpg" y="332.09744" x="72.150179" id="svg_463"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Presenting-Data-Effectively-Communicating-Findings/dp/1506353126?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1506353126" id="svg_464">
+     <image width="10.8" height="13.39535" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51kPOZp8O1L._SL160_.jpg" y="331.76446" x="96.696619" id="svg_465"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands-/dp/0321992474?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321992474" id="svg_466">
+     <image width="10.8" height="13.29231" xlink:href="https://images-na.ssl-images-amazon.com/images/I/61DDZ%2B3AYDL._SL160_.jpg" y="311.86511" x="116.291499" id="svg_467"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/TensorFlow-Deep-Learning-Regression-Reinforcement/dp/1491980451?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491980451" id="svg_468">
+     <image width="11.7" height="15.34426" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51PtHguGyAL._SL160_.jpg" y="154.21326" x="-0.999903" id="svg_469"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Docker-Shipping-Reliable-Containers-Production/dp/1491917571?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491917571" id="svg_470">
+     <image width="17.1" height="22.42623" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51EQtQFrFJL._SL160_.jpg" y="523.64459" x="657.884309" id="svg_471"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Using-Docker-Developing-Deploying-Containers/dp/1491915765?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491915765" id="svg_472">
+     <image width="9.9" height="12.98361" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51wGyGpDt1L._SL160_.jpg" y="510.88338" x="637.660659" id="svg_473"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Docker-Cookbook-Solutions-Distributed-Applications/dp/149191971X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=149191971X" id="svg_474">
+     <image width="9.9" height="12.98361" xlink:href="https://images-na.ssl-images-amazon.com/images/I/517docmo7WL._SL160_.jpg" y="581.19007" x="654.076149" id="svg_475"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491924357" id="svg_476">
+     <image width="15.3" height="20.06557" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51mdLvzYz9L._SL160_.jpg" y="507.55554" x="607.314739" id="svg_477"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Kubernetes-Book-Nigel-Poulton/dp/1521823634?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1521823634" id="svg_478">
+     <image width="16.2" height="19.93846" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41IgbmD8TxL._SL160_.jpg" y="606.24789" x="593.133639" id="svg_479"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Kubernetes-Cookbook-Building-Native-Applications/dp/1491979682?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491979682" id="svg_480">
+     <image width="18" height="23.41463" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51qCaCNyz%2BL._SL160_.jpg" y="635.75845" x="618.911309" id="svg_481"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ansible-Automating-Configuration-Management-Deployment/dp/1491979801?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491979801" id="svg_482">
+     <image width="13.5" height="17.70492" xlink:href="https://images-na.ssl-images-amazon.com/images/I/517gIkgx2SL._SL160_.jpg" y="553.02152" x="657.860649" id="svg_483"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Architecting-Scale-Availability-Growing-Applications/dp/1491943394?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491943394" id="svg_484">
+     <image width="9.9" height="12.98361" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Q6yZd9AdL._SL160_.jpg" y="431.17536" x="599.660659" id="svg_485"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1617293725" id="svg_486">
+     <image width="13.5" height="16.875" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41d-5wi6QJL._SL160_.jpg" y="609.29225" x="617.679839" id="svg_487"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Production-Ready-Microservices-Standardized-Engineering-Organization/dp/1491965975?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491965975" id="svg_488">
+     <image width="10.8" height="14.16393" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41GrYxubbZL._SL160_.jpg" y="428.64612" x="615.931099" id="svg_489"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Microservice-Architecture-Aligning-Principles-Practices/dp/1491956259?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491956259" id="svg_490">
+     <image width="10.8" height="14.16393" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51qSYJTTVUL._SL160_.jpg" y="428.08899" x="633.295529" id="svg_491"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491963042" id="svg_492">
+     <image width="10.8" height="14.16393" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51AFqqfquyL._SL160_.jpg" y="149.994884" x="49.650225" id="svg_493"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Feature-Engineering-Made-Easy-Identify/dp/1787287602?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1787287602" id="svg_494">
+     <image width="9" height="11.07692" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51s49YL3XXL._SL160_.jpg" y="135.62015" x="37.947479" id="svg_495"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Deep-Learning-Cookbook-Practical-Recipes/dp/149199584X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=149199584X" id="svg_496">
+     <image width="10.8" height="14.16393" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51vZQDNlMDL._SL160_.jpg" y="78.44928" x="54.312709" id="svg_497"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Java-Modularity-Developing-Maintainable-Applications/dp/1491954167?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491954167" id="svg_498">
+     <image width="9" height="11.80328" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51I0DMFW3aL._SL160_.jpg" y="333.03272" x="699.545139" id="svg_499"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Core-Java-SE-Impatient-2nd/dp/0134694724?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134694724" id="svg_500">
+     <image width="12.6" height="16.39024" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51hU5DHd2FL._SL160_.jpg" y="151.08865" x="834.572869" id="svg_501"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Natural-Language-Processing-Python-Analyzing/dp/0596516495?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0596516495" id="svg_502">
+     <image width="10.8" height="14.16393" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ezTmJ6XFL._SL160_.jpg" y="253.241438" x="58.959576" id="svg_503"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0596007124" id="svg_504">
+     <image width="15.3" height="17.3617" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51u3S8BHSpL._SL160_.jpg" y="147.28763" x="774.233269" id="svg_505"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ansible-DevOps-Server-configuration-management/dp/098639341X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=098639341X" id="svg_506">
+     <image width="11.7" height="15.21951" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51fh7tZ5cXL._SL160_.jpg" y="584.50574" x="628.080709" id="svg_507"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491978864" id="svg_508">
+     <image width="9.9" height="12.98361" xlink:href="https://images-na.ssl-images-amazon.com/images/I/510uw-fDARL._SL160_.jpg" y="452.73889" x="598.486889" id="svg_509"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1732102201" id="svg_510">
+     <image width="9" height="11.07692" xlink:href="https://images-na.ssl-images-amazon.com/images/I/61iOSX4WNiL._SL160_.jpg" y="344.05499" x="577.610649" id="svg_511"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Mastering-Kubernetes-Master-container-management/dp/1788999789?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1788999789" id="svg_512">
+     <image width="9.9" height="12.18462" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41ZRhJjKJBL._SL160_.jpg" y="637.67049" x="591.129569" id="svg_513"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Mastering-Kubernetes-container-deployment-management/dp/1786461005?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1786461005" id="svg_514">
+     <image width="11.7" height="14.4" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41H2uX75yIL._SL160_.jpg" y="659.92506" x="604.855549" id="svg_515"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0672324539" id="svg_516">
+     <image width="9.9" height="12.0916" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51NoqhM4r9L._SL160_.jpg" y="159.27607" x="899.036339" id="svg_517"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1617292230" id="svg_518">
+     <image width="12.6" height="15.75" xlink:href="https://images-na.ssl-images-amazon.com/images/I/61uUPXbhMxL._SL160_.jpg" y="147.34174" x="955.198439" id="svg_519"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0132350882" id="svg_520">
+     <image width="26.1" height="33.67742" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41TINACY3hL._SL160_.jpg" y="174.95995" x="781.597829" id="svg_521"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321146530" id="svg_522">
+     <image width="19.8" height="24.75" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51IraByqmSL._SL160_.jpg" y="275.33536" x="639.947419" id="svg_523"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Camel-Action-Claus-Ibsen/dp/1617292931?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1617292931" id="svg_524">
+     <image width="9" height="11.25" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51XIT-UyRIL._SL160_.jpg" y="308.34976" x="604.009889" id="svg_525"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1680502093" id="svg_526">
+     <image width="9.9" height="11.90977" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41srOUdjYhL._SL160_.jpg" y="310.14404" x="558.169609" id="svg_527"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Software-Design-Decoded-Experts-Think/dp/0262035189?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0262035189" id="svg_528">
+     <image width="9" height="10.43478" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51E1kHM5l3L._SL160_.jpg" y="338.83694" x="516.350419" id="svg_529"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0137081073" id="svg_530">
+     <image width="20.7" height="26.92683" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51qREOc85qL._SL160_.jpg" y="194.423" x="754.713669" id="svg_531"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321815734" id="svg_532">
+     <image width="9" height="13.33333" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51gBTAeZC2L._SL160_.jpg" y="268.30809" x="615.879099" id="svg_533"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=020161622X" id="svg_534">
+     <image width="20.7" height="26.07874" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41BKx1AxQWL._SL160_.jpg" y="143.52257" x="740.591089" id="svg_535"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=032157351X" id="svg_536">
+     <image width="12.6" height="17.37931" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41%2BpJNrGujL._SL160_.jpg" y="191.13243" x="955.390839" id="svg_537"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0884271951" id="svg_538">
+     <image width="9.9" height="14.66667" xlink:href="https://images-na.ssl-images-amazon.com/images/I/519C2Gz-v2L._SL160_.jpg" y="308.76295" x="516.672449" id="svg_539"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=038534645X" id="svg_540">
+     <image width="9.9" height="15.08571" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51A1BpQ2HjL._SL160_.jpg" y="339.52561" x="503.586219" id="svg_541"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0201633612" id="svg_542">
+     <image width="23.4" height="29.48031" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51szD9HC9pL._SL160_.jpg" y="147.36478" x="710.816819" id="svg_543"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Core-Java-I-Fundamentals-1-11th/dp/0135166306?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0135166306" id="svg_544">
+     <image width="10.8" height="14.16393" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41nMhEMODFL._SL160_.jpg" y="128.96855" x="816.868689" id="svg_545"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0201485672" id="svg_546">
+     <image width="20.7" height="26.28571" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51K-M5hR8qL._SL160_.jpg" y="217.47604" x="709.524939" id="svg_547"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0735619670" id="svg_548">
+     <image width="18" height="21.98473" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51FUYfErOXL._SL160_.jpg" y="196.25639" x="734.094999" id="svg_549"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0131177052" id="svg_550">
+     <image width="15.3" height="20.2314" xlink:href="https://images-na.ssl-images-amazon.com/images/I/513zbr3tilL._SL160_.jpg" y="238.14428" x="680.848859" id="svg_551"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Apache-Spark-Hours-Teach-Yourself/dp/0672338513?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0672338513" id="svg_552">
+     <image width="9" height="11.70732" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41HaC9l7hwL._SL160_.jpg" y="310.82809" x="181.933219" id="svg_553"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hadoop-Hours-Sams-Teach-Yourself/dp/0672338521?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0672338521" id="svg_554">
+     <image width="9" height="11.6129" xlink:href="https://images-na.ssl-images-amazon.com/images/I/419%2BKY0pfrL._SL160_.jpg" y="316.35004" x="138.305009" id="svg_555"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321336380" id="svg_556">
+     <image width="9.9" height="13.09091" xlink:href="https://images-na.ssl-images-amazon.com/images/I/510nbmNIelL._SL160_.jpg" y="265.10327" x="565.696859" id="svg_557"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321534468" id="svg_558">
+     <image width="9.9" height="13.09091" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Tt3A9nSHL._SL160_.jpg" y="251.13109" x="579.458789" id="svg_559"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Concurrent-Programming-Java-Principles-Pattern/dp/0201310090?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0201310090" id="svg_560">
+     <image width="9" height="11.07692" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51e%2B8W9cDPL._SL160_.jpg" y="215.38053" x="958.727479" id="svg_561"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0201835959" id="svg_562">
+     <image width="12.6" height="18.66667" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51WIpM70FEL._SL160_.jpg" y="190.99136" x="675.171899" id="svg_563"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0131857258" id="svg_564">
+     <image width="9.9" height="13.2" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51rdbk2iTQL._SL160_.jpg" y="196.55891" x="717.382579" id="svg_565"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0596008678" id="svg_566">
+     <image width="9.9" height="11.39568" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51mE7FBCw8L._SL160_.jpg" y="158.3917" x="807.644459" id="svg_567"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321193687" id="svg_568">
+     <image width="9.9" height="12.87805" xlink:href="https://images-na.ssl-images-amazon.com/images/I/515yX2OsebL._SL160_.jpg" y="137.47544" x="795.200289" id="svg_569"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Core-Java-II-Advanced-Features-11th/dp/0135166314?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0135166314" id="svg_570">
+     <image width="9" height="11.80328" xlink:href="https://images-na.ssl-images-amazon.com/images/I/412bknJqrjL._SL160_.jpg" y="150.92703" x="820.834199" id="svg_571"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134997832" id="svg_572">
+     <image width="16.2" height="20.25" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Y1ICTUT0L._SL160_.jpg" y="39.17808" x="976.295679" id="svg_573"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Java-Programmers-4th-Deitel-Developer/dp/0134777565?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134777565" id="svg_574">
+     <image width="9.9" height="12.87805" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51eJZOOJFqL._SL160_.jpg" y="132.09358" x="879.660639" id="svg_575"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Microsoft-Visual-Step-Developer-Reference/dp/1509307761?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1509307761" id="svg_576">
+     <image width="9" height="11.07692" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41-zCuNSSkL._SL160_.jpg" y="36.10073" x="1008.187119" id="svg_577"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Programming-C-4th-Developers-Library/dp/0321776410?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321776410" id="svg_578">
+     <image width="11.7" height="15.09677" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41WPElWvwmL._SL160_.jpg" y="106.33674" x="1017.742949" id="svg_579"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Core-Java-II-Advanced-Features-10th/dp/0134177290?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134177290" id="svg_580">
+     <image width="9.9" height="12.77419" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41clmx-C4SL._SL160_.jpg" y="153.89278" x="879.660639" id="svg_581"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Service-Design-Patterns-Fundamental-Solutions/dp/032154420X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=032154420X" id="svg_582">
+     <image width="9" height="12" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41A7b4McRzL._SL160_.jpg" y="361.62928" x="598.925979" id="svg_583"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321278658" id="svg_584">
+     <image width="9.9" height="12.375" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41IwRBAhF4L._SL160_.jpg" y="197.28326" x="661.031249" id="svg_585"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321503627" id="svg_586">
+     <image width="10.8" height="14.16393" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51fUKOog3VL._SL160_.jpg" y="289.77459" x="614.231259" id="svg_587"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134052501" id="svg_588">
+     <image width="9.9" height="12.87805" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51pLrDguYsL._SL160_.jpg" y="253.13157" x="655.776879" id="svg_589"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/9332555400?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=9332555400" id="svg_590">
+     <image width="9.9" height="13.2" xlink:href="https://images-na.ssl-images-amazon.com/images/I/21HDxVJ18nL._SL160_.jpg" y="171.90264" x="688.328839" id="svg_591"/>
+    </a>
+   </g>
+  </g>
+</svg>
