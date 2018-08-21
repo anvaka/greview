@@ -3,7 +3,7 @@
 I love books. In this repository I'm going to share some books that I've
 read (or want to read), and explore their neighbors. This is similar to https://www.yasiv.com/ but static.
 
-[![demo](https://i.imgur.com/a3Gjzgp.png)](https://anvaka.github.io/greview/hands-on-ml/1/)
+[![demo](https://i.imgur.com/gOZ8q4S.png)](https://anvaka.github.io/greview/hands-on-ml/1/)
 
 To learn more how these visualizations were made, [read here](https://github.com/anvaka/greview/blob/master/HOW.md)
 
