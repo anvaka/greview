@@ -15,6 +15,19 @@ The algorithm tends to group similar books into districts. You can find advanced
 
 The roads on the map have symbolic meaning. The thicker the road, the more books are connected through it.
 
+
+## Islands
+
+Some graphs have "island" outline:
+
+[![Island outline example](https://i.imgur.com/qrVF9Ww.png)](https://anvaka.github.io/greview/100-things-designer/1/)
+
+I'm just playing with look and feel, and though having outline would be cool. Islands are
+procedurally generated based on the original position of the nodes on a map.
+
+I used [Brownian bridge](https://en.wikipedia.org/wiki/Brownian_bridge) simulation on the
+convex hull of the points to generate the coastline.
+
 # What is that city like algorithm?
 
 It's not publicly available yet, as I haven't figured everything out yet. It involves lots of tweaking
