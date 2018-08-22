@@ -26,6 +26,10 @@ The second exploration is [Designing Data-Intensive Applications](https://anvaka
 
 [![demo](https://i.imgur.com/yhqxs3H.png)](https://anvaka.github.io/greview/ddia/1/)
 
+# 100 Things Every Designer Needs to Know About People
+
+[![100 things every designer needs to know about people](https://i.imgur.com/qrVF9Ww.png)](https://anvaka.github.io/greview/100-things-designer/1/)
+
 # Feedback?
 
 Please let me know what you think: anvaka@gmail.com or https://twitter.com/anvaka
