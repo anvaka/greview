@@ -44,13 +44,11 @@
     <path id="svg_25" fill="transparent" stroke-width="8" d="m723.97178,299.26642l10,0"/>
     <path id="svg_26" fill="transparent" stroke-width="8" d="m733.97178,299.26642l10,0"/>
     <path id="svg_27" fill="transparent" stroke-width="8" d="m743.97178,299.26642l10,0"/>
-    <path id="svg_28" fill="transparent" stroke-width="2" d="m763.97178,249.26642l0,10"/>
     <path id="svg_29" fill="transparent" stroke-width="2" d="m763.97178,259.26642l0,10"/>
     <path id="svg_30" fill="transparent" stroke-width="4" d="m753.97178,269.26642l10,0"/>
     <path id="svg_31" fill="transparent" d="m743.97178,279.26642l0,10"/>
     <path id="svg_32" fill="transparent" d="m743.97178,269.26642l0,10"/>
     <path id="svg_33" fill="transparent" stroke-width="4" d="m773.97178,339.26642l0,10"/>
-    <path id="svg_34" fill="transparent" d="m723.97178,289.26642l0,10"/>
     <path id="svg_35" fill="transparent" d="m563.97178,89.26642l10,0"/>
     <path id="svg_36" fill="transparent" stroke-width="2" d="m763.97178,269.26642l10,0"/>
     <path id="svg_37" fill="transparent" stroke-width="2" d="m773.97178,269.26642l10,0"/>
@@ -83,7 +81,6 @@
     <path id="svg_64" fill="transparent" stroke-width="4" d="m563.97178,259.26642l0,10"/>
     <path id="svg_65" fill="transparent" stroke-width="4" d="m563.97178,329.26642l0,10"/>
     <path id="svg_66" fill="transparent" stroke-width="4" d="m553.97178,299.26642l0,10"/>
-    <path id="svg_67" fill="transparent" d="m543.97178,289.26642l10,0"/>
     <path id="svg_68" fill="transparent" d="m563.97178,349.26642l10,0"/>
     <path id="svg_69" fill="transparent" d="m363.97178,249.26642l0,10"/>
     <path id="svg_70" fill="transparent" stroke-width="4" d="m383.97178,259.26642l10,0"/>
@@ -101,7 +98,6 @@
     <path id="svg_82" fill="transparent" d="m163.97178,369.26642l10,0"/>
     <path id="svg_83" fill="transparent" stroke-width="2" d="m183.97178,379.26642l10,0"/>
     <path id="svg_84" fill="transparent" stroke-width="2" d="m173.97178,379.26642l10,0"/>
-    <path id="svg_85" fill="transparent" d="m183.97178,329.26642l0,10"/>
     <path id="svg_86" fill="transparent" stroke-width="2" d="m83.97178,429.26642l0,10"/>
     <path id="svg_87" fill="transparent" stroke-width="2" d="m83.97178,439.26642l10,0"/>
     <path id="svg_88" fill="transparent" d="m163.97178,369.26642l0,10"/>
@@ -109,7 +105,6 @@
     <path id="svg_90" fill="transparent" d="m693.97178,679.26642l10,0"/>
     <path id="svg_91" fill="transparent" d="m693.97178,669.26642l0,10"/>
     <path id="svg_92" fill="transparent" d="m703.97178,669.26642l0,10"/>
-    <path id="svg_93" fill="transparent" stroke-width="2" d="m663.97178,629.26642l0,10"/>
     <path id="svg_94" fill="transparent" stroke-width="2" d="m163.97178,379.26642l10,0"/>
     <path id="svg_95" fill="transparent" stroke-width="2" d="m763.97178,339.26642l0,10"/>
     <path id="svg_96" fill="transparent" d="m693.97178,669.26642l10,0"/>
@@ -125,7 +120,6 @@
     <path id="svg_106" fill="transparent" stroke-width="2" d="m593.97178,629.26642l0,10"/>
     <path id="svg_107" fill="transparent" d="m763.97178,479.26642l0,10"/>
     <path id="svg_108" fill="transparent" d="m763.97178,469.26642l0,10"/>
-    <path id="svg_109" fill="transparent" d="m783.97178,449.26642l0,10"/>
     <path id="svg_110" fill="transparent" d="m773.97178,469.26642l0,10"/>
     <path id="svg_111" fill="transparent" d="m763.97178,479.26642l10,0"/>
     <path id="svg_112" fill="transparent" d="m783.97178,409.26642l10,0"/>
@@ -136,32 +130,26 @@
     <path id="svg_117" fill="transparent" d="m453.97178,309.26642l0,10"/>
     <path id="svg_118" fill="transparent" d="m453.97178,319.26642l0,10"/>
     <path id="svg_119" fill="transparent" d="m423.97178,489.26642l10,0"/>
-    <path id="svg_120" fill="transparent" d="m623.97178,609.26642l0,10"/>
     <path id="svg_121" fill="transparent" stroke-width="2" d="m503.97178,389.26642l10,0"/>
     <path id="svg_122" fill="transparent" d="m203.97178,509.26642l0,10"/>
     <path id="svg_123" fill="transparent" d="m363.97178,509.26642l0,10"/>
     <path id="svg_124" fill="transparent" d="m783.97178,229.26642l10,0"/>
     <path id="svg_125" fill="transparent" stroke-width="2" d="m763.97178,209.26642l10,0"/>
     <path id="svg_126" fill="transparent" d="m643.97178,289.26642l0,10"/>
-    <path id="svg_127" fill="transparent" d="m343.97178,509.26642l0,10"/>
     <path id="svg_128" fill="transparent" d="m463.97178,469.26642l10,0"/>
     <path id="svg_129" fill="transparent" d="m843.97178,449.26642l0,10"/>
     <path id="svg_130" fill="transparent" stroke-width="2" d="m773.97178,229.26642l0,10"/>
     <path id="svg_131" fill="transparent" d="m183.97178,379.26642l0,10"/>
-    <path id="svg_132" fill="transparent" stroke-width="2" d="m163.97178,349.26642l10,0"/>
     <path id="svg_133" fill="transparent" d="m213.97178,379.26642l0,10"/>
-    <path id="svg_134" fill="transparent" d="m683.97178,289.26642l0,10"/>
     <path id="svg_135" fill="transparent" stroke-width="2" d="m133.97178,449.26642l0,10"/>
     <path id="svg_136" fill="transparent" stroke-width="2" d="m133.97178,439.26642l0,10"/>
     <path id="svg_137" fill="transparent" d="m843.97178,459.26642l0,10"/>
     <path id="svg_138" fill="transparent" stroke-width="2" d="m593.97178,269.26642l10,0"/>
     <path id="svg_139" fill="transparent" d="m613.97178,269.26642l10,0"/>
     <path id="svg_140" fill="transparent" stroke-width="2" d="m603.97178,269.26642l10,0"/>
-    <path id="svg_141" fill="transparent" d="m503.97178,289.26642l0,10"/>
     <path id="svg_142" fill="transparent" d="m563.97178,329.26642l10,0"/>
     <path id="svg_143" fill="transparent" d="m773.97178,229.26642l10,0"/>
     <path id="svg_144" fill="transparent" d="m563.97178,249.26642l0,10"/>
-    <path id="svg_145" fill="transparent" d="m663.97178,299.26642l0,10"/>
     <path id="svg_146" fill="transparent" d="m583.97178,349.26642l0,10"/>
     <path id="svg_147" fill="transparent" d="m493.97178,299.26642l0,10"/>
     <path id="svg_148" fill="transparent" d="m323.97178,289.26642l10,0"/>
@@ -170,10 +158,6 @@
     <path id="svg_151" fill="transparent" d="m433.97178,309.26642l0,10"/>
     <path id="svg_152" fill="transparent" d="m443.97178,319.26642l0,10"/>
     <path id="svg_153" fill="transparent" d="m443.97178,309.26642l0,10"/>
-    <path id="svg_154" fill="transparent" d="m453.97178,329.26642l10,0"/>
-    <path id="svg_155" fill="transparent" d="m483.97178,429.26642l0,10"/>
-    <path id="svg_156" fill="transparent" d="m443.97178,469.26642l0,10"/>
-    <path id="svg_157" fill="transparent" d="m403.97178,489.26642l0,10"/>
     <path id="svg_158" fill="transparent" d="m73.97178,429.26642l10,0"/>
     <path id="svg_159" fill="transparent" stroke-width="2" d="m73.97178,459.26642l10,0"/>
     <path id="svg_160" fill="transparent" d="m163.97178,519.26642l0,10"/>
@@ -189,7 +173,6 @@
     <path id="svg_170" fill="transparent" d="m443.97178,319.26642l10,0"/>
     <path id="svg_171" fill="transparent" d="m433.97178,319.26642l10,0"/>
     <path id="svg_172" fill="transparent" d="m443.97178,329.26642l10,0"/>
-    <path id="svg_173" fill="transparent" d="m483.97178,429.26642l10,0"/>
     <path id="svg_174" fill="transparent" d="m73.97178,419.26642l0,10"/>
     <path id="svg_175" fill="transparent" d="m83.97178,459.26642l10,0"/>
     <path id="svg_176" fill="transparent" d="m153.97178,529.26642l10,0"/>
@@ -230,7 +213,6 @@
     <path id="svg_211" fill="transparent" stroke-width="2" d="m773.97178,259.26642l0,-20"/>
     <path id="svg_212" fill="transparent" stroke-width="2" d="m373.97178,509.26642l-10,10"/>
     <path id="svg_213" fill="transparent" stroke-width="2" d="m383.97178,509.26642l10,-10"/>
-    <path id="svg_214" fill="transparent" stroke-width="2" d="m393.97178,499.26642l0,-20"/>
     <path id="svg_215" fill="transparent" stroke-width="4" d="m403.97178,499.26642l20,0"/>
     <path id="svg_216" fill="transparent" d="m433.97178,499.26642l10,10"/>
     <path id="svg_217" fill="transparent" stroke-width="4" d="m433.97178,489.26642l10,-10"/>
@@ -335,7 +317,6 @@
     <path id="svg_316" fill="transparent" d="m403.97178,329.26642l20,-10"/>
     <path id="svg_317" fill="transparent" d="m73.97178,429.26642l-30,0"/>
     <path id="svg_318" fill="transparent" d="m93.97178,459.26642l0,-20"/>
-    <path id="svg_319" fill="transparent" d="m143.97178,549.26642l10,-20"/>
     <path id="svg_320" fill="transparent" d="m183.97178,399.26642l20,10"/>
    </g>
    <g id="nodes">
