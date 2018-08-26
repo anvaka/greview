@@ -30,6 +30,10 @@ The second exploration is [Designing Data-Intensive Applications](https://anvaka
 
 [![100 things every designer needs to know about people](https://i.imgur.com/qrVF9Ww.png)](https://anvaka.github.io/greview/100-things-designer/1/)
 
+# Cracking the Coding Interview Questions
+
+[![Cracking the Coding Interview Questions](https://i.imgur.com/dfI8fz9.png)](https://anvaka.github.io/greview/cracking-code-interview/1/)
+
 # Feedback?
 
 Please let me know what you think: anvaka@gmail.com or https://twitter.com/anvaka
