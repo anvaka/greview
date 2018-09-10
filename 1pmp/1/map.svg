@@ -1,0 +1,1361 @@
+
+<svg width="700.29379" height="894.1407470703125" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <style>/*
+  <![CDATA[ */
+      path {
+        stroke: #67B1F1;
+      }
+      /* ]]>*/</style>
+ <g>
+  <g id="scene">
+   <g id="lines">
+    <path id="svg_1" fill="transparent" d="m510.83755,393l0,10"/>
+    <path id="svg_3" fill="transparent" stroke-width="2" d="m570.83755,503l10,0"/>
+    <path id="svg_4" fill="transparent" stroke-width="2" d="m520.83755,503l10,0"/>
+    <path id="svg_5" fill="transparent" stroke-width="2" d="m520.83755,493l0,10"/>
+    <path id="svg_6" fill="transparent" stroke-width="2" d="m520.83755,483l0,10"/>
+    <path id="svg_7" fill="transparent" d="m510.83755,433l0,10"/>
+    <path id="svg_10" fill="transparent" stroke-width="4" d="m460.83755,453l0,10"/>
+    <path id="svg_11" fill="transparent" stroke-width="6" d="m460.83755,443l0,10"/>
+    <path id="svg_12" fill="transparent" stroke-width="4" d="m460.83755,443l10,0"/>
+    <path id="svg_13" fill="transparent" stroke-width="2" d="m470.83755,443l10,0"/>
+    <path id="svg_14" fill="transparent" d="m480.83755,433l0,10"/>
+    <path id="svg_16" fill="transparent" stroke-width="4" d="m290.83755,263l10,0"/>
+    <path id="svg_17" fill="transparent" stroke-width="2" d="m300.83755,263l10,0"/>
+    <path id="svg_20" fill="transparent" stroke-width="2" d="m240.83755,263l0,10"/>
+    <path id="svg_21" fill="transparent" stroke-width="2" d="m240.83755,263l10,0"/>
+    <path id="svg_22" fill="transparent" stroke-width="2" d="m250.83755,263l10,0"/>
+    <path id="svg_23" fill="transparent" stroke-width="4" d="m260.83755,263l10,0"/>
+    <path id="svg_24" fill="transparent" stroke-width="4" d="m260.83755,243l0,10"/>
+    <path id="svg_25" fill="transparent" stroke-width="4" d="m260.83755,253l0,10"/>
+    <path id="svg_26" fill="transparent" stroke-width="4" d="m260.83755,223l0,10"/>
+    <path id="svg_27" fill="transparent" stroke-width="4" d="m260.83755,233l0,10"/>
+    <path id="svg_28" fill="transparent" stroke-width="2" d="m320.83755,633l0,10"/>
+    <path id="svg_29" fill="transparent" stroke-width="2" d="m320.83755,593l0,10"/>
+    <path id="svg_30" fill="transparent" stroke-width="2" d="m330.83755,583l10,0"/>
+    <path id="svg_31" fill="transparent" stroke-width="2" d="m340.83755,573l0,10"/>
+    <path id="svg_32" fill="transparent" stroke-width="4" d="m390.83755,543l10,0"/>
+    <path id="svg_33" fill="transparent" stroke-width="4" d="m400.83755,543l10,0"/>
+    <path id="svg_34" fill="transparent" stroke-width="4" d="m440.83755,503l0,10"/>
+    <path id="svg_35" fill="transparent" stroke-width="4" d="m440.83755,503l10,0"/>
+    <path id="svg_36" fill="transparent" stroke-width="4" d="m450.83755,503l10,0"/>
+    <path id="svg_37" fill="transparent" stroke-width="4" d="m460.83755,493l0,10"/>
+    <path id="svg_38" fill="transparent" stroke-width="4" d="m460.83755,463l0,10"/>
+    <path id="svg_39" fill="transparent" stroke-width="4" d="m460.83755,433l0,10"/>
+    <path id="svg_40" fill="transparent" stroke-width="6" d="m450.83755,413l0,10"/>
+    <path id="svg_41" fill="transparent" stroke-width="6" d="m450.83755,403l0,10"/>
+    <path id="svg_42" fill="transparent" stroke-width="6" d="m440.83755,403l10,0"/>
+    <path id="svg_43" fill="transparent" stroke-width="6" d="m440.83755,363l0,10"/>
+    <path id="svg_44" fill="transparent" stroke-width="6" d="m440.83755,353l0,10"/>
+    <path id="svg_45" fill="transparent" stroke-width="8" d="m420.83755,343l10,0"/>
+    <path id="svg_46" fill="transparent" stroke-width="8" d="m420.83755,333l0,10"/>
+    <path id="svg_47" fill="transparent" stroke-width="8" d="m420.83755,323l0,10"/>
+    <path id="svg_48" fill="transparent" stroke-width="6" d="m410.83755,293l0,10"/>
+    <path id="svg_49" fill="transparent" stroke-width="6" d="m410.83755,283l0,10"/>
+    <path id="svg_50" fill="transparent" stroke-width="8" d="m400.83755,283l10,0"/>
+    <path id="svg_51" fill="transparent" stroke-width="4" d="m360.83755,283l10,0"/>
+    <path id="svg_52" fill="transparent" stroke-width="4" d="m350.83755,283l10,0"/>
+    <path id="svg_53" fill="transparent" stroke-width="4" d="m320.83755,283l10,0"/>
+    <path id="svg_54" fill="transparent" stroke-width="4" d="m310.83755,283l10,0"/>
+    <path id="svg_56" fill="transparent" d="m170.83755,123l10,0"/>
+    <path id="svg_57" fill="transparent" stroke-width="2" d="m180.83755,123l0,10"/>
+    <path id="svg_58" fill="transparent" stroke-width="2" d="m180.83755,133l0,10"/>
+    <path id="svg_59" fill="transparent" stroke-width="2" d="m180.83755,143l10,0"/>
+    <path id="svg_60" fill="transparent" stroke-width="2" d="m230.83755,143l10,0"/>
+    <path id="svg_61" fill="transparent" stroke-width="2" d="m250.83755,153l0,10"/>
+    <path id="svg_62" fill="transparent" stroke-width="2" d="m250.83755,163l10,0"/>
+    <path id="svg_63" fill="transparent" stroke-width="4" d="m260.83755,183l0,10"/>
+    <path id="svg_64" fill="transparent" stroke-width="2" d="m300.83755,313l0,10"/>
+    <path id="svg_65" fill="transparent" stroke-width="2" d="m300.83755,303l0,10"/>
+    <path id="svg_66" fill="transparent" stroke-width="2" d="m300.83755,293l0,10"/>
+    <path id="svg_70" fill="transparent" stroke-width="2" d="m550.83755,543l10,0"/>
+    <path id="svg_71" fill="transparent" d="m550.83755,533l0,10"/>
+    <path id="svg_72" fill="transparent" stroke-width="2" d="m540.83755,543l10,0"/>
+    <path id="svg_74" fill="transparent" d="m550.83755,503l0,10"/>
+    <path id="svg_75" fill="transparent" d="m550.83755,513l0,10"/>
+    <path id="svg_76" fill="transparent" d="m550.83755,523l0,10"/>
+    <path id="svg_77" fill="transparent" d="m550.83755,523l10,0"/>
+    <path id="svg_78" fill="transparent" d="m210.83755,283l10,0"/>
+    <path id="svg_79" fill="transparent" stroke-width="2" d="m240.83755,273l0,10"/>
+    <path id="svg_81" fill="transparent" d="m560.83755,153l0,-10"/>
+    <path id="svg_82" fill="transparent" stroke-width="2" d="m540.83755,163l10,0"/>
+    <path id="svg_83" fill="transparent" stroke-width="2" d="m460.83755,183l10,0"/>
+    <path id="svg_84" fill="transparent" stroke-width="4" d="m430.83755,203l10,0"/>
+    <path id="svg_85" fill="transparent" d="m630.83755,183l10,0"/>
+    <path id="svg_86" fill="transparent" stroke-width="2" d="m610.83755,173l10,0"/>
+    <path id="svg_87" fill="transparent" stroke-width="2" d="m600.83755,173l10,0"/>
+    <path id="svg_88" fill="transparent" stroke-width="2" d="m560.83755,163l10,0"/>
+    <path id="svg_89" fill="transparent" stroke-width="2" d="m550.83755,163l10,0"/>
+    <path id="svg_90" fill="transparent" stroke-width="2" d="m620.83755,483l10,0"/>
+    <path id="svg_91" fill="transparent" stroke-width="2" d="m640.83755,463l0,10"/>
+    <path id="svg_92" fill="transparent" stroke-width="2" d="m640.83755,453l0,10"/>
+    <path id="svg_93" fill="transparent" stroke-width="2" d="m640.83755,423l0,10"/>
+    <path id="svg_94" fill="transparent" stroke-width="2" d="m640.83755,413l0,10"/>
+    <path id="svg_99" fill="transparent" stroke-width="2" d="m240.83755,103l0,10"/>
+    <path id="svg_103" fill="transparent" stroke-width="2" d="m280.83755,143l10,0"/>
+    <path id="svg_104" fill="transparent" stroke-width="2" d="m270.83755,143l10,0"/>
+    <path id="svg_105" fill="transparent" stroke-width="2" d="m270.83755,133l0,10"/>
+    <path id="svg_106" fill="transparent" stroke-width="2" d="m250.83755,113l10,0"/>
+    <path id="svg_107" fill="transparent" stroke-width="2" d="m240.83755,113l10,0"/>
+    <path id="svg_108" fill="transparent" stroke-width="2" d="m370.83755,143l10,0"/>
+    <path id="svg_110" fill="transparent" stroke-width="4" d="m390.83755,223l0,10"/>
+    <path id="svg_111" fill="transparent" stroke-width="2" d="m390.83755,253l10,0"/>
+    <path id="svg_112" fill="transparent" d="m240.83755,133l0,10"/>
+    <path id="svg_116" fill="transparent" d="m350.83755,273l0,10"/>
+    <path id="svg_117" fill="transparent" stroke-width="2" d="m320.83755,703l0,10"/>
+    <path id="svg_118" fill="transparent" d="m640.83755,163l0,10"/>
+    <path id="svg_120" fill="transparent" d="m480.83755,363l0,10"/>
+    <path id="svg_121" fill="transparent" d="m410.83755,733l0,10"/>
+    <path id="svg_122" fill="transparent" stroke-width="2" d="m380.83755,763l10,0"/>
+    <path id="svg_123" fill="transparent" stroke-width="2" d="m340.83755,763l10,0"/>
+    <path id="svg_124" fill="transparent" d="m250.83755,803l10,0"/>
+    <path id="svg_125" fill="transparent" stroke-width="2" d="m260.83755,163l10,0"/>
+    <path id="svg_126" fill="transparent" stroke-width="2" d="m270.83755,153l0,10"/>
+    <path id="svg_127" fill="transparent" stroke-width="2" d="m270.83755,153l0,-10"/>
+    <path id="svg_128" fill="transparent" stroke-width="2" d="m360.83755,73l0,10"/>
+    <path id="svg_129" fill="transparent" stroke-width="2" d="m360.83755,113l0,10"/>
+    <path id="svg_130" fill="transparent" stroke-width="2" d="m350.83755,123l10,0"/>
+    <path id="svg_131" fill="transparent" stroke-width="2" d="m370.83755,123l10,0"/>
+    <path id="svg_133" fill="transparent" d="m350.83755,83l10,0"/>
+    <path id="svg_135" fill="transparent" stroke-width="4" d="m370.83755,323l0,10"/>
+    <path id="svg_136" fill="transparent" stroke-width="2" d="m360.83755,283l0,10"/>
+    <path id="svg_137" fill="transparent" d="m220.83755,273l0,10"/>
+    <path id="svg_138" fill="transparent" d="m220.83755,253l10,0"/>
+    <path id="svg_140" fill="transparent" d="m180.83755,233l0,10"/>
+    <path id="svg_141" fill="transparent" d="m180.83755,243l0,10"/>
+    <path id="svg_142" fill="transparent" d="m210.83755,253l10,0"/>
+    <path id="svg_144" fill="transparent" d="m160.83755,133l0,10"/>
+    <path id="svg_146" fill="transparent" d="m160.83755,123l10,0"/>
+    <path id="svg_148" fill="transparent" d="m160.83755,153l0,-10"/>
+    <path id="svg_150" fill="transparent" d="m200.83755,213l0,10"/>
+    <path id="svg_151" fill="transparent" stroke-width="2" d="m200.83755,223l10,0"/>
+    <path id="svg_152" fill="transparent" stroke-width="2" d="m210.83755,223l10,0"/>
+    <path id="svg_156" fill="transparent" stroke-width="2" d="m110.83755,503l0,10"/>
+    <path id="svg_159" fill="transparent" stroke-width="2" d="m110.83755,533l0,10"/>
+    <path id="svg_160" fill="transparent" stroke-width="4" d="m110.83755,523l0,10"/>
+    <path id="svg_161" fill="transparent" d="m100.83755,523l10,0"/>
+    <path id="svg_163" fill="transparent" d="m240.83755,283l0,10"/>
+    <path id="svg_164" fill="transparent" d="m240.83755,293l0,10"/>
+    <path id="svg_165" fill="transparent" stroke-width="2" d="m240.83755,303l0,10"/>
+    <path id="svg_166" fill="transparent" stroke-width="4" d="m240.83755,373l0,10"/>
+    <path id="svg_167" fill="transparent" stroke-width="2" d="m230.83755,383l10,0"/>
+    <path id="svg_168" fill="transparent" stroke-width="4" d="m210.83755,423l0,10"/>
+    <path id="svg_169" fill="transparent" stroke-width="4" d="m200.83755,433l10,0"/>
+    <path id="svg_170" fill="transparent" stroke-width="2" d="m110.83755,503l10,0"/>
+    <path id="svg_172" fill="transparent" stroke-width="2" d="m160.83755,583l10,0"/>
+    <path id="svg_173" fill="transparent" d="m180.83755,253l0,10"/>
+    <path id="svg_178" fill="transparent" stroke-width="2" d="m180.83755,223l0,10"/>
+    <path id="svg_179" fill="transparent" stroke-width="2" d="m180.83755,223l10,0"/>
+    <path id="svg_180" fill="transparent" d="m190.83755,223l10,0"/>
+    <path id="svg_181" fill="transparent" d="m250.83755,223l10,0"/>
+    <path id="svg_183" fill="transparent" d="m190.83755,203l10,0"/>
+    <path id="svg_184" fill="transparent" d="m200.83755,203l0,10"/>
+    <path id="svg_186" fill="transparent" stroke-width="2" d="m440.83755,193l0,10"/>
+    <path id="svg_187" fill="transparent" d="m450.83755,133l0,10"/>
+    <path id="svg_190" fill="transparent" stroke-width="2" d="m360.83755,123l10,0"/>
+    <path id="svg_191" fill="transparent" d="m640.83755,173l0,10"/>
+    <path id="svg_192" fill="transparent" d="m670.83755,153l0,10"/>
+    <path id="svg_193" fill="transparent" d="m670.83755,163l0,10"/>
+    <path id="svg_195" fill="transparent" d="m560.83755,153l0,10"/>
+    <path id="svg_196" fill="transparent" stroke-width="2" d="m500.83755,143l10,0"/>
+    <path id="svg_197" fill="transparent" d="m470.83755,143l10,0"/>
+    <path id="svg_198" fill="transparent" stroke-width="2" d="m110.83755,513l0,10"/>
+    <path id="svg_200" fill="transparent" stroke-width="2" d="m220.83755,303l0,10"/>
+    <path id="svg_202" fill="transparent" d="m350.83755,533l0,10"/>
+    <path id="svg_205" fill="transparent" stroke-width="2" d="m270.83755,343l10,0"/>
+    <path id="svg_206" fill="transparent" stroke-width="4" d="m240.83755,343l10,0"/>
+    <path id="svg_209" fill="transparent" d="m430.83755,473l10,0"/>
+    <path id="svg_210" fill="transparent" d="m440.83755,473l10,0"/>
+    <path id="svg_216" fill="transparent" stroke-width="2" d="m400.83755,573l0,10"/>
+    <path id="svg_217" fill="transparent" stroke-width="2" d="m420.83755,603l0,10"/>
+    <path id="svg_218" fill="transparent" stroke-width="2" d="m420.83755,613l0,10"/>
+    <path id="svg_219" fill="transparent" stroke-width="2" d="m380.83755,583l10,0"/>
+    <path id="svg_220" fill="transparent" stroke-width="2" d="m390.83755,583l10,0"/>
+    <path id="svg_221" fill="transparent" d="m520.83755,503l0,10"/>
+    <path id="svg_223" fill="transparent" stroke-width="2" d="m300.83755,283l0,10"/>
+    <path id="svg_224" fill="transparent" stroke-width="2" d="m330.83755,553l10,0"/>
+    <path id="svg_226" fill="transparent" d="m290.83755,793l0,10"/>
+    <path id="svg_230" fill="transparent" d="m150.83755,813l10,0"/>
+    <path id="svg_233" fill="transparent" d="m260.83755,303l10,0"/>
+    <path id="svg_235" fill="transparent" d="m310.83755,643l10,0"/>
+    <path id="svg_237" fill="transparent" d="m470.83755,713l10,0"/>
+    <path id="svg_238" fill="transparent" d="m460.83755,743l10,0"/>
+    <path id="svg_239" fill="transparent" d="m480.83755,643l0,10"/>
+    <path id="svg_240" fill="transparent" d="m470.83755,673l10,0"/>
+    <path id="svg_241" fill="transparent" d="m480.83755,403l10,0"/>
+    <path id="svg_244" fill="transparent" stroke-width="2" d="m180.83755,583l10,0"/>
+    <path id="svg_245" fill="transparent" stroke-width="2" d="m170.83755,583l10,0"/>
+    <path id="svg_247" fill="transparent" stroke-width="2" d="m210.83755,623l10,0"/>
+    <path id="svg_248" fill="transparent" stroke-width="2" d="m300.83755,283l10,0"/>
+    <path id="svg_252" fill="transparent" d="m590.83755,533l0,10"/>
+    <path id="svg_253" fill="transparent" d="m560.83755,563l0,10"/>
+    <path id="svg_256" fill="transparent" d="m350.83755,263l0,10"/>
+    <path id="svg_258" fill="transparent" stroke-width="2" d="m280.83755,743l10,0"/>
+    <path id="svg_260" fill="transparent" stroke-width="2" d="m110.83755,473l10,0"/>
+    <path id="svg_262" fill="transparent" d="m330.83755,83l0,10"/>
+    <path id="svg_263" fill="transparent" d="m270.83755,93l10,0"/>
+    <path id="svg_264" fill="transparent" stroke-width="2" d="m440.83755,633l0,10"/>
+    <path id="svg_265" fill="transparent" d="m440.83755,583l10,0"/>
+    <path id="svg_266" fill="transparent" d="m450.83755,583l10,0"/>
+    <path id="svg_267" fill="transparent" stroke-width="2" d="m500.83755,543l0,10"/>
+    <path id="svg_268" fill="transparent" d="m430.83755,603l10,0"/>
+    <path id="svg_269" fill="transparent" stroke-width="2" d="m440.83755,663l0,10"/>
+    <path id="svg_272" fill="transparent" d="m430.83755,633l10,0"/>
+    <path id="svg_273" fill="transparent" d="m510.83755,553l10,0"/>
+    <path id="svg_274" fill="transparent" d="m500.83755,553l10,0"/>
+    <path id="svg_275" fill="transparent" d="m520.83755,573l10,0"/>
+    <path id="svg_276" fill="transparent" d="m180.83755,593l0,10"/>
+    <path id="svg_277" fill="transparent" d="m180.83755,583l0,10"/>
+    <path id="svg_280" fill="transparent" d="m100.83755,783l0,10"/>
+    <path id="svg_281" fill="transparent" stroke-width="2" d="m210.83755,413l0,10"/>
+    <path id="svg_286" fill="transparent" d="m420.83755,603l10,0"/>
+    <path id="svg_287" fill="transparent" stroke-width="2" d="m270.83755,593l10,0"/>
+    <path id="svg_288" fill="transparent" stroke-width="2" d="m280.83755,593l0,10"/>
+    <path id="svg_289" fill="transparent" d="m80.83755,513l0,10"/>
+    <path id="svg_294" fill="transparent" d="m190.83755,173l10,0"/>
+    <path id="svg_295" fill="transparent" d="m180.83755,153l0,-10"/>
+    <path id="svg_296" fill="transparent" d="m180.83755,153l0,10"/>
+    <path id="svg_302" fill="transparent" d="m240.83755,583l10,0"/>
+    <path id="svg_305" fill="transparent" d="m380.83755,643l10,0"/>
+    <path id="svg_306" fill="transparent" stroke-width="2" d="m430.83755,503l10,0"/>
+    <path id="svg_307" fill="transparent" d="m300.83755,593l0,10"/>
+    <path id="svg_311" fill="transparent" d="m150.83755,163l10,0"/>
+    <path id="svg_312" fill="transparent" d="m120.83755,173l0,10"/>
+    <path id="svg_313" fill="transparent" d="m120.83755,163l0,10"/>
+    <path id="svg_314" fill="transparent" d="m180.83755,203l0,10"/>
+    <path id="svg_315" fill="transparent" d="m180.83755,213l0,10"/>
+    <path id="svg_319" fill="transparent" d="m420.83755,493l0,10"/>
+    <path id="svg_320" fill="transparent" d="m420.83755,503l10,0"/>
+    <path id="svg_321" fill="transparent" stroke-width="2" d="m500.83755,513l0,10"/>
+    <path id="svg_322" fill="transparent" stroke-width="2" d="m490.83755,513l10,0"/>
+    <path id="svg_323" fill="transparent" d="m500.83755,513l10,0"/>
+    <path id="svg_333" fill="transparent" d="m680.83755,463l10,0"/>
+    <path id="svg_334" fill="transparent" d="m700.83755,443l0,10"/>
+    <path id="svg_335" fill="transparent" stroke-width="2" d="m370.83755,323l10,0"/>
+    <path id="svg_342" fill="transparent" d="m450.83755,473l10,0"/>
+    <path id="svg_344" fill="transparent" d="m470.83755,153l0,10"/>
+    <path id="svg_345" fill="transparent" d="m410.83755,233l10,0"/>
+    <path id="svg_347" fill="transparent" d="m470.83755,153l0,-10"/>
+    <path id="svg_349" fill="transparent" d="m430.83755,153l10,0"/>
+    <path id="svg_353" fill="transparent" d="m490.83755,173l0,10"/>
+    <path id="svg_354" fill="transparent" d="m430.83755,173l10,0"/>
+    <path id="svg_362" fill="transparent" d="m440.83755,703l0,10"/>
+    <path id="svg_363" fill="transparent" d="m420.83755,473l10,0"/>
+    <path id="svg_364" fill="transparent" d="m410.83755,473l10,0"/>
+    <path id="svg_365" fill="transparent" d="m480.83755,653l10,0"/>
+    <path id="svg_370" fill="transparent" d="m410.83755,593l0,10"/>
+    <path id="svg_371" fill="transparent" d="m430.83755,583l10,0"/>
+    <path id="svg_376" fill="transparent" d="m390.83755,643l10,0"/>
+    <path id="svg_377" fill="transparent" d="m400.83755,633l0,10"/>
+    <path id="svg_381" fill="transparent" stroke-width="2" d="m280.83755,343l10,0"/>
+    <path id="svg_382" fill="transparent" stroke-width="2" d="m290.83755,343l10,0"/>
+    <path id="svg_387" fill="transparent" d="m510.83755,513l10,0"/>
+    <path id="svg_388" fill="transparent" d="m510.83755,153l0,-10"/>
+    <path id="svg_389" fill="transparent" d="m320.83755,523l10,0"/>
+    <path id="svg_398" fill="transparent" d="m270.83755,633l10,0"/>
+    <path id="svg_399" fill="transparent" d="m300.83755,593l10,0"/>
+    <path id="svg_402" fill="transparent" d="m280.83755,593l10,0"/>
+    <path id="svg_414" fill="transparent" d="m160.83755,153l0,10"/>
+    <path id="svg_415" fill="transparent" d="m160.83755,123l0,10"/>
+    <path id="svg_416" fill="transparent" d="m180.83755,203l10,0"/>
+    <path id="svg_420" fill="transparent" d="m130.83755,813l10,0"/>
+    <path id="svg_421" fill="transparent" d="m140.83755,813l10,0"/>
+    <path id="svg_425" fill="transparent" d="m490.83755,653l0,10"/>
+    <path id="svg_426" fill="transparent" d="m410.83755,603l10,0"/>
+    <path id="svg_428" fill="transparent" d="m310.83755,593l10,0"/>
+    <path id="svg_429" fill="transparent" d="m290.83755,593l10,0"/>
+    <path id="svg_430" fill="transparent" d="m400.83755,513l0,10"/>
+    <path id="svg_434" fill="transparent" d="m510.83755,393l0,-20"/>
+    <path id="svg_435" fill="transparent" d="m510.83755,403l0,30"/>
+    <path id="svg_437" fill="transparent" d="m480.83755,403l0,30"/>
+    <path id="svg_438" fill="transparent" d="m480.83755,403l0,-30"/>
+    <path id="svg_439" fill="transparent" stroke-width="2" d="m620.83755,503l-40,0"/>
+    <path id="svg_440" fill="transparent" d="m580.83755,503l0,20"/>
+    <path id="svg_441" fill="transparent" stroke-width="2" d="m570.83755,503l-20,0"/>
+    <path id="svg_442" fill="transparent" stroke-width="2" d="m550.83755,503l-20,0"/>
+    <path id="svg_443" fill="transparent" stroke-width="2" d="m520.83755,483l0,-30"/>
+    <path id="svg_444" fill="transparent" stroke-width="2" d="m520.83755,453l-10,-10"/>
+    <path id="svg_445" fill="transparent" stroke-width="2" d="m510.83755,443l-30,0"/>
+    <path id="svg_446" fill="transparent" stroke-width="4" d="m270.83755,263l20,0"/>
+    <path id="svg_448" fill="transparent" d="m310.83755,263l20,0"/>
+    <path id="svg_449" fill="transparent" d="m240.83755,263l-10,-10"/>
+    <path id="svg_452" fill="transparent" stroke-width="4" d="m260.83755,223l0,-30"/>
+    <path id="svg_453" fill="transparent" stroke-width="2" d="m320.83755,703l0,-60"/>
+    <path id="svg_454" fill="transparent" d="m320.83755,643l60,0"/>
+    <path id="svg_455" fill="transparent" stroke-width="2" d="m320.83755,633l0,-30"/>
+    <path id="svg_456" fill="transparent" stroke-width="2" d="m320.83755,603l-20,0"/>
+    <path id="svg_457" fill="transparent" stroke-width="2" d="m320.83755,593l10,-10"/>
+    <path id="svg_458" fill="transparent" d="m340.83755,583l40,0"/>
+    <path id="svg_459" fill="transparent" stroke-width="2" d="m340.83755,573l0,-20"/>
+    <path id="svg_460" fill="transparent" stroke-width="2" d="m340.83755,553l10,-10"/>
+    <path id="svg_461" fill="transparent" stroke-width="2" d="m350.83755,543l20,0"/>
+    <path id="svg_462" fill="transparent" stroke-width="2" d="m370.83755,543l20,0"/>
+    <path id="svg_463" fill="transparent" stroke-width="2" d="m400.83755,543l0,30"/>
+    <path id="svg_464" fill="transparent" stroke-width="4" d="m410.83755,543l10,-10"/>
+    <path id="svg_465" fill="transparent" stroke-width="4" d="m420.83755,533l10,-10"/>
+    <path id="svg_466" fill="transparent" stroke-width="4" d="m430.83755,523l10,-10"/>
+    <path id="svg_467" fill="transparent" d="m440.83755,503l0,-30"/>
+    <path id="svg_468" fill="transparent" stroke-width="2" d="m460.83755,503l30,10"/>
+    <path id="svg_469" fill="transparent" stroke-width="4" d="m460.83755,493l0,-20"/>
+    <path id="svg_470" fill="transparent" stroke-width="4" d="m460.83755,433l-10,-10"/>
+    <path id="svg_471" fill="transparent" d="m450.83755,403l30,0"/>
+    <path id="svg_472" fill="transparent" stroke-width="6" d="m440.83755,403l0,-30"/>
+    <path id="svg_473" fill="transparent" d="m440.83755,363l40,0"/>
+    <path id="svg_474" fill="transparent" stroke-width="6" d="m440.83755,353l-10,-10"/>
+    <path id="svg_475" fill="transparent" stroke-width="6" d="m420.83755,323l-10,-20"/>
+    <path id="svg_477" fill="transparent" stroke-width="4" d="m400.83755,283l-30,0"/>
+    <path id="svg_478" fill="transparent" stroke-width="4" d="m350.83755,283l-20,0"/>
+    <path id="svg_480" fill="transparent" d="m180.83755,123l0,-40"/>
+    <path id="svg_481" fill="transparent" d="m180.83755,143l-20,0"/>
+    <path id="svg_482" fill="transparent" stroke-width="2" d="m190.83755,143l40,0"/>
+    <path id="svg_483" fill="transparent" stroke-width="2" d="m240.83755,143l10,10"/>
+    <path id="svg_484" fill="transparent" d="m250.83755,163l-30,0"/>
+    <path id="svg_485" fill="transparent" stroke-width="4" d="m260.83755,163l0,20"/>
+    <path id="svg_486" fill="transparent" stroke-width="2" d="m320.83755,343l-20,0"/>
+    <path id="svg_487" fill="transparent" d="m300.83755,343l0,-20"/>
+    <path id="svg_488" fill="transparent" d="m300.83755,303l-30,0"/>
+    <path id="svg_491" fill="transparent" d="m590.83755,543l-30,0"/>
+    <path id="svg_492" fill="transparent" d="m590.83755,543l0,30"/>
+    <path id="svg_493" fill="transparent" d="m560.83755,543l0,20"/>
+    <path id="svg_494" fill="transparent" d="m540.83755,543l-20,10"/>
+    <path id="svg_495" fill="transparent" stroke-width="2" d="m580.83755,523l-20,0"/>
+    <path id="svg_497" fill="transparent" d="m590.83755,533l-10,-10"/>
+    <path id="svg_498" fill="transparent" d="m180.83755,283l30,0"/>
+    <path id="svg_499" fill="transparent" stroke-width="2" d="m220.83755,283l20,0"/>
+    <path id="svg_500" fill="transparent" d="m220.83755,283l0,20"/>
+    <path id="svg_503" fill="transparent" d="m560.83755,143l40,0"/>
+    <path id="svg_504" fill="transparent" stroke-width="2" d="m540.83755,163l-20,0"/>
+    <path id="svg_505" fill="transparent" stroke-width="2" d="m520.83755,163l-30,20"/>
+    <path id="svg_506" fill="transparent" stroke-width="2" d="m490.83755,183l-20,0"/>
+    <path id="svg_507" fill="transparent" d="m470.83755,183l0,-20"/>
+    <path id="svg_508" fill="transparent" stroke-width="2" d="m460.83755,183l0,20"/>
+    <path id="svg_509" fill="transparent" stroke-width="2" d="m460.83755,203l-20,0"/>
+    <path id="svg_510" fill="transparent" stroke-width="4" d="m430.83755,203l-10,30"/>
+    <path id="svg_511" fill="transparent" stroke-width="4" d="m420.83755,233l-10,10"/>
+    <path id="svg_512" fill="transparent" stroke-width="4" d="m410.83755,243l-10,10"/>
+    <path id="svg_513" fill="transparent" stroke-width="6" d="m400.83755,253l0,30"/>
+    <path id="svg_514" fill="transparent" d="m600.83755,143l0,30"/>
+    <path id="svg_515" fill="transparent" d="m660.83755,183l-20,0"/>
+    <path id="svg_516" fill="transparent" d="m630.83755,183l-10,-10"/>
+    <path id="svg_517" fill="transparent" d="m620.83755,173l20,0"/>
+    <path id="svg_518" fill="transparent" d="m600.83755,173l-20,0"/>
+    <path id="svg_519" fill="transparent" stroke-width="2" d="m580.83755,173l-10,-10"/>
+    <path id="svg_520" fill="transparent" stroke-width="2" d="m620.83755,483l0,20"/>
+    <path id="svg_522" fill="transparent" d="m630.83755,483l10,-10"/>
+    <path id="svg_523" fill="transparent" d="m640.83755,463l20,0"/>
+    <path id="svg_524" fill="transparent" stroke-width="2" d="m640.83755,453l0,-20"/>
+    <path id="svg_526" fill="transparent" d="m640.83755,413l30,-10"/>
+    <path id="svg_527" fill="transparent" d="m670.83755,403l30,0"/>
+    <path id="svg_528" fill="transparent" d="m700.83755,403l0,20"/>
+    <path id="svg_529" fill="transparent" d="m240.83755,843l10,-40"/>
+    <path id="svg_530" fill="transparent" d="m250.83755,803l-80,-10"/>
+    <path id="svg_533" fill="transparent" stroke-width="2" d="m240.83755,103l0,-20"/>
+    <path id="svg_534" fill="transparent" d="m240.83755,113l0,20"/>
+    <path id="svg_535" fill="transparent" d="m240.83755,83l-60,0"/>
+    <path id="svg_537" fill="transparent" stroke-width="4" d="m350.83755,153l-60,-10"/>
+    <path id="svg_538" fill="transparent" stroke-width="2" d="m350.83755,153l0,-30"/>
+    <path id="svg_540" fill="transparent" stroke-width="2" d="m270.83755,133l-10,-20"/>
+    <path id="svg_541" fill="transparent" d="m260.83755,113l10,-20"/>
+    <path id="svg_542" fill="transparent" d="m450.83755,133l-20,0"/>
+    <path id="svg_543" fill="transparent" stroke-width="2" d="m430.83755,133l-10,-10"/>
+    <path id="svg_544" fill="transparent" stroke-width="2" d="m420.83755,123l-40,0"/>
+    <path id="svg_545" fill="transparent" stroke-width="2" d="m380.83755,123l0,20"/>
+    <path id="svg_546" fill="transparent" stroke-width="2" d="m380.83755,143l10,30"/>
+    <path id="svg_547" fill="transparent" stroke-width="2" d="m370.83755,143l-20,10"/>
+    <path id="svg_548" fill="transparent" stroke-width="2" d="m390.83755,223l0,-50"/>
+    <path id="svg_549" fill="transparent" stroke-width="2" d="m390.83755,233l0,20"/>
+    <path id="svg_551" fill="transparent" stroke-width="2" d="m320.83755,763l20,0"/>
+    <path id="svg_552" fill="transparent" d="m320.83755,763l-30,0"/>
+    <path id="svg_553" fill="transparent" stroke-width="2" d="m340.83755,763l0,-20"/>
+    <path id="svg_554" fill="transparent" stroke-width="2" d="m340.83755,743l-20,-30"/>
+    <path id="svg_555" fill="transparent" d="m320.83755,713l-30,30"/>
+    <path id="svg_557" fill="transparent" d="m640.83755,163l30,0"/>
+    <path id="svg_558" fill="transparent" d="m480.83755,373l30,0"/>
+    <path id="svg_559" fill="transparent" d="m410.83755,733l30,-20"/>
+    <path id="svg_560" fill="transparent" stroke-width="2" d="m410.83755,743l-20,20"/>
+    <path id="svg_561" fill="transparent" stroke-width="2" d="m380.83755,763l-30,0"/>
+    <path id="svg_562" fill="transparent" stroke-width="2" d="m300.83755,793l-10,10"/>
+    <path id="svg_563" fill="transparent" stroke-width="2" d="m300.83755,793l20,-30"/>
+    <path id="svg_564" fill="transparent" d="m290.83755,803l-30,0"/>
+    <path id="svg_566" fill="transparent" d="m260.83755,803l0,-30"/>
+    <path id="svg_567" fill="transparent" d="m230.83755,863l-20,10"/>
+    <path id="svg_568" fill="transparent" d="m230.83755,863l10,-20"/>
+    <path id="svg_569" fill="transparent" d="m210.83755,873l-30,10"/>
+    <path id="svg_570" fill="transparent" d="m180.83755,883l0,-40"/>
+    <path id="svg_571" fill="transparent" d="m180.83755,843l-20,-10"/>
+    <path id="svg_572" fill="transparent" stroke-width="2" d="m400.83755,63l-30,0"/>
+    <path id="svg_573" fill="transparent" stroke-width="2" d="m370.83755,63l-10,10"/>
+    <path id="svg_574" fill="transparent" stroke-width="2" d="m360.83755,83l0,30"/>
+    <path id="svg_576" fill="transparent" d="m330.83755,83l20,0"/>
+    <path id="svg_578" fill="transparent" stroke-width="2" d="m500.83755,143l-20,0"/>
+    <path id="svg_579" fill="transparent" d="m510.83755,153l10,10"/>
+    <path id="svg_580" fill="transparent" stroke-width="2" d="m370.83755,323l-10,-30"/>
+    <path id="svg_581" fill="transparent" stroke-width="2" d="m370.83755,333l-50,10"/>
+    <path id="svg_582" fill="transparent" d="m220.83755,273l0,-20"/>
+    <path id="svg_583" fill="transparent" d="m220.83755,253l0,-30"/>
+    <path id="svg_584" fill="transparent" stroke-width="2" d="m180.83755,243l-20,0"/>
+    <path id="svg_585" fill="transparent" d="m180.83755,253l30,0"/>
+    <path id="svg_587" fill="transparent" d="m220.83755,223l30,0"/>
+    <path id="svg_589" fill="transparent" stroke-width="2" d="m80.83755,473l0,20"/>
+    <path id="svg_590" fill="transparent" d="m80.83755,473l30,0"/>
+    <path id="svg_591" fill="transparent" d="m80.83755,493l0,20"/>
+    <path id="svg_593" fill="transparent" stroke-width="2" d="m160.83755,583l-30,0"/>
+    <path id="svg_594" fill="transparent" stroke-width="2" d="m130.83755,583l-10,-10"/>
+    <path id="svg_595" fill="transparent" stroke-width="2" d="m120.83755,573l-10,-30"/>
+    <path id="svg_597" fill="transparent" d="m100.83755,523l-20,0"/>
+    <path id="svg_598" fill="transparent" d="m240.83755,303l20,0"/>
+    <path id="svg_599" fill="transparent" stroke-width="2" d="m240.83755,313l0,30"/>
+    <path id="svg_600" fill="transparent" stroke-width="4" d="m240.83755,343l0,30"/>
+    <path id="svg_601" fill="transparent" stroke-width="2" d="m240.83755,383l10,10"/>
+    <path id="svg_603" fill="transparent" d="m210.83755,433l40,0"/>
+    <path id="svg_604" fill="transparent" stroke-width="2" d="m200.83755,433l-10,10"/>
+    <path id="svg_605" fill="transparent" stroke-width="2" d="m190.83755,443l-10,10"/>
+    <path id="svg_606" fill="transparent" stroke-width="2" d="m180.83755,453l-10,10"/>
+    <path id="svg_607" fill="transparent" stroke-width="2" d="m170.83755,463l-30,0"/>
+    <path id="svg_608" fill="transparent" stroke-width="4" d="m140.83755,463l-20,10"/>
+    <path id="svg_609" fill="transparent" stroke-width="2" d="m120.83755,473l0,30"/>
+    <path id="svg_611" fill="transparent" d="m130.83755,193l10,20"/>
+    <path id="svg_613" fill="transparent" d="m140.83755,213l20,30"/>
+    <path id="svg_614" fill="transparent" d="m180.83755,263l0,20"/>
+    <path id="svg_615" fill="transparent" stroke-width="2" d="m300.83755,283l0,-20"/>
+    <path id="svg_616" fill="transparent" d="m120.83755,183l10,10"/>
+    <path id="svg_617" fill="transparent" d="m200.83755,203l0,-30"/>
+    <path id="svg_618" fill="transparent" stroke-width="2" d="m440.83755,193l0,-20"/>
+    <path id="svg_619" fill="transparent" stroke-width="2" d="m440.83755,173l0,-20"/>
+    <path id="svg_620" fill="transparent" d="m440.83755,153l10,-10"/>
+    <path id="svg_621" fill="transparent" d="m450.83755,143l20,0"/>
+    <path id="svg_622" fill="transparent" d="m670.83755,173l-10,10"/>
+    <path id="svg_623" fill="transparent" d="m430.83755,153l0,-20"/>
+    <path id="svg_624" fill="transparent" d="m430.83755,153l0,20"/>
+    <path id="svg_625" fill="transparent" d="m510.83755,73l0,50"/>
+    <path id="svg_626" fill="transparent" stroke-width="2" d="m510.83755,123l0,20"/>
+    <path id="svg_627" fill="transparent" d="m480.83755,143l0,20"/>
+    <path id="svg_628" fill="transparent" stroke-width="2" d="m220.83755,313l20,0"/>
+    <path id="svg_630" fill="transparent" d="m330.83755,523l20,10"/>
+    <path id="svg_632" fill="transparent" stroke-width="2" d="m270.83755,343l-20,0"/>
+    <path id="svg_634" fill="transparent" stroke-width="2" d="m400.83755,583l10,10"/>
+    <path id="svg_635" fill="transparent" d="m400.83755,583l30,0"/>
+    <path id="svg_637" fill="transparent" d="m420.83755,623l10,10"/>
+    <path id="svg_638" fill="transparent" stroke-width="2" d="m500.83755,543l0,-20"/>
+    <path id="svg_641" fill="transparent" d="m210.83755,383l20,0"/>
+    <path id="svg_642" fill="transparent" stroke-width="2" d="m320.83755,543l10,10"/>
+    <path id="svg_643" fill="transparent" d="m170.83755,793l-10,20"/>
+    <path id="svg_644" fill="transparent" d="m160.83755,833l0,-20"/>
+    <path id="svg_645" fill="transparent" d="m140.83755,783l10,10"/>
+    <path id="svg_646" fill="transparent" d="m150.83755,793l20,0"/>
+    <path id="svg_647" fill="transparent" d="m290.83755,793l0,-30"/>
+    <path id="svg_649" fill="transparent" d="m150.83755,813l0,-20"/>
+    <path id="svg_650" fill="transparent" d="m310.83755,643l-40,-10"/>
+    <path id="svg_651" fill="transparent" d="m270.83755,633l-30,-10"/>
+    <path id="svg_652" fill="transparent" stroke-width="2" d="m240.83755,623l-20,0"/>
+    <path id="svg_654" fill="transparent" d="m440.83755,713l30,0"/>
+    <path id="svg_655" fill="transparent" d="m520.83755,663l-30,0"/>
+    <path id="svg_656" fill="transparent" d="m490.83755,663l-10,10"/>
+    <path id="svg_657" fill="transparent" stroke-width="2" d="m480.83755,673l0,40"/>
+    <path id="svg_658" fill="transparent" stroke-width="2" d="m480.83755,713l-10,30"/>
+    <path id="svg_660" fill="transparent" d="m560.83755,763l-40,0"/>
+    <path id="svg_661" fill="transparent" d="m520.83755,763l-50,-20"/>
+    <path id="svg_662" fill="transparent" d="m460.83755,743l-30,0"/>
+    <path id="svg_663" fill="transparent" d="m480.83755,643l-40,0"/>
+    <path id="svg_664" fill="transparent" d="m480.83755,653l0,20"/>
+    <path id="svg_667" fill="transparent" d="m430.83755,743l-20,0"/>
+    <path id="svg_668" fill="transparent" d="m470.83755,673l-30,0"/>
+    <path id="svg_670" fill="transparent" d="m490.83755,403l20,0"/>
+    <path id="svg_671" fill="transparent" d="m240.83755,583l-50,0"/>
+    <path id="svg_672" fill="transparent" d="m240.83755,583l0,40"/>
+    <path id="svg_673" fill="transparent" stroke-width="2" d="m210.83755,623l-20,-10"/>
+    <path id="svg_674" fill="transparent" d="m190.83755,613l-10,-10"/>
+    <path id="svg_675" fill="transparent" d="m330.83755,263l20,0"/>
+    <path id="svg_676" fill="transparent" d="m590.83755,573l-30,0"/>
+    <path id="svg_677" fill="transparent" d="m530.83755,573l30,0"/>
+    <path id="svg_678" fill="transparent" d="m610.83755,573l-20,0"/>
+    <path id="svg_680" fill="transparent" d="m280.83755,743l-20,30"/>
+    <path id="svg_681" fill="transparent" d="m290.83755,743l0,20"/>
+    <path id="svg_682" fill="transparent" d="m330.83755,93l-50,0"/>
+    <path id="svg_684" fill="transparent" stroke-width="2" d="m440.83755,663l0,-20"/>
+    <path id="svg_685" fill="transparent" d="m440.83755,643l-40,0"/>
+    <path id="svg_686" fill="transparent" d="m440.83755,633l0,-30"/>
+    <path id="svg_687" fill="transparent" d="m440.83755,603l0,-20"/>
+    <path id="svg_688" fill="transparent" d="m440.83755,603l20,0"/>
+    <path id="svg_689" fill="transparent" stroke-width="2" d="m460.83755,583l30,0"/>
+    <path id="svg_690" fill="transparent" d="m490.83755,583l10,-10"/>
+    <path id="svg_691" fill="transparent" stroke-width="2" d="m500.83755,573l0,-20"/>
+    <path id="svg_692" fill="transparent" stroke-width="2" d="m440.83755,703l0,-30"/>
+    <path id="svg_693" fill="transparent" d="m460.83755,603l0,-20"/>
+    <path id="svg_694" fill="transparent" d="m390.83755,173l40,0"/>
+    <path id="svg_695" fill="transparent" d="m520.83755,553l0,20"/>
+    <path id="svg_696" fill="transparent" d="m520.83755,573l-20,0"/>
+    <path id="svg_697" fill="transparent" d="m100.83755,793l10,20"/>
+    <path id="svg_698" fill="transparent" d="m100.83755,783l20,0"/>
+    <path id="svg_699" fill="transparent" d="m120.83755,783l20,0"/>
+    <path id="svg_700" fill="transparent" d="m210.83755,413l0,-30"/>
+    <path id="svg_701" fill="transparent" d="m410.83755,233l-20,0"/>
+    <path id="svg_703" fill="transparent" d="m250.83755,393l0,40"/>
+    <path id="svg_704" fill="transparent" d="m270.83755,593l-20,-10"/>
+    <path id="svg_705" fill="transparent" stroke-width="2" d="m280.83755,603l20,0"/>
+    <path id="svg_708" fill="transparent" d="m220.83755,163l-20,10"/>
+    <path id="svg_709" fill="transparent" d="m190.83755,173l-10,-10"/>
+    <path id="svg_710" fill="transparent" d="m180.83755,163l-20,0"/>
+    <path id="svg_713" fill="transparent" d="m400.83755,523l0,20"/>
+    <path id="svg_714" fill="transparent" d="m120.83755,163l30,0"/>
+    <path id="svg_715" fill="transparent" stroke-width="2" d="m160.83755,163l0,20"/>
+    <path id="svg_716" fill="transparent" stroke-width="2" d="m160.83755,183l10,10"/>
+    <path id="svg_717" fill="transparent" d="m170.83755,193l10,10"/>
+    <path id="svg_718" fill="transparent" d="m420.83755,493l0,-20"/>
+    <path id="svg_719" fill="transparent" d="m420.83755,503l-20,10"/>
+    <path id="svg_722" fill="transparent" d="m660.83755,463l20,0"/>
+    <path id="svg_723" fill="transparent" d="m700.83755,423l0,20"/>
+    <path id="svg_724" fill="transparent" d="m690.83755,463l10,-10"/>
+    <path id="svg_725" fill="transparent" d="m700.83755,443l20,0"/>
+    <path id="svg_727" fill="transparent" stroke-width="2" d="m380.83755,323l40,0"/>
+    <path id="svg_728" fill="transparent" d="m490.83755,173l-10,-10"/>
+    <path id="svg_729" fill="transparent" d="m410.83755,473l0,-20"/>
+    <path id="svg_730" fill="transparent" d="m400.83755,633l20,-10"/>
+    <path id="svg_732" fill="transparent" d="m320.83755,523l0,20"/>
+    <path id="svg_733" fill="transparent" d="m130.83755,813l-20,0"/>
+    <path id="svg_735" fill="transparent" d="m280.83755,633l0,-30"/>
+    <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="18" id="svg_1023" y="225.334601" x="271.800474" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Social Media</text>
+   </g>
+   <g id="nodes">
+    <a xlink:href="https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/1449335675?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449335675" id="1449335675">
+     <image id="svg_738" x="499.418598" y="375.306883" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51paXS1DTpL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Scaling-Lean-Mastering-Metrics-Startup/dp/1101980524?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1101980524" id="1101980524">
+     <image id="svg_739" x="482.922457" y="387.479181" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51s2YOP%2B53L._SL160_.jpg" height="13" width="12.8375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118960874" id="1118960874">
+     <image id="svg_740" x="461.542929" y="379.999267" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51W5Xg-FtcL._SL160_.jpg" height="21" width="14.175"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0307887898" id="307887898">
+     <image id="svg_741" x="490.50322" y="411.045479" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51T-sMqSMiL._SL160_.jpg" height="26" width="17.225"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=045149721X" id="045149721X">
+     <image id="svg_742" x="443.866993" y="452.213344" xlink:href="https://images-na.ssl-images-amazon.com/images/I/514qnzJ6q1L._SL160_.jpg" height="18" width="11.925"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Everybody-Writes-Go-Creating-Ridiculously/dp/1118905555?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118905555" id="1118905555">
+     <image id="svg_743" x="261.574838" y="267.531283" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41T3wgE4pbL._SL160_.jpg" height="18" width="12.0375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Content-Rules-Podcasts-Webinars-Customers/dp/1118232607?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118232607" id="1118232607">
+     <image id="svg_744" x="338.131496" y="265.249818" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51WEEUy0nXL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Everybody-Writes-Go-Creating-Ridiculously/dp/8126559985?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=8126559985" id="8126559985">
+     <image id="svg_745" x="224.592804" y="287" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41OLL5zieiL._SL160_.jpg" height="15" width="10.03125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Epic-Content-Marketing-Different-Customers/dp/0071819894?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0071819894" id="71819894">
+     <image id="svg_746" x="224.636967" y="259.82743" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51UpAd9CaQL._SL160_.jpg" height="15" width="10.03125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/New-Rules-Marketing-Applications-Newsjacking/dp/1119362415?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119362415" id="1119362415">
+     <image id="svg_747" x="218.579427" y="200.175216" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51hDga4GiXL._SL160_.jpg" height="21" width="14.04375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Copywriters-Handbook-Step-Step-Writing/dp/0805078045?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0805078045" id="805078045">
+     <image id="svg_748" x="324.728521" y="665.244268" xlink:href="https://images-na.ssl-images-amazon.com/images/I/518-xTR0%2B4L._SL160_.jpg" height="28" width="18.725"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Art-Social-Media-Power-Users/dp/1591848075?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591848075" id="1591848075">
+     <image id="svg_749" x="163.283425" y="99.377088" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51s72pfC5XL._SL160_.jpg" height="20" width="14.125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/One-Hour-Content-Plan-Solopreneurs/dp/1974415708?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1974415708" id="1974415708">
+     <image id="svg_750" x="303.833864" y="346.500367" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41jUlPQmXjL._SL160_.jpg" height="25" width="15.625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/How-Make-Money-Blogging-Replaced/dp/0989894509?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0989894509" id="989894509">
+     <image id="svg_751" x="591.27655" y="576" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41LxIlKMpqL._SL160_.jpg" height="20" width="12.5"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Blogging-All-Dummies-Susan-Gunelius/dp/1118299442?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118299442" id="1118299442">
+     <image id="svg_752" x="543.083524" y="552.082514" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51USrM9UoUL._SL160_.jpg" height="18" width="14.175"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Lifestyle-Blogging-Basics-How-Cultivating/dp/1975631625?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1975631625" id="1975631625">
+     <image id="svg_753" x="527.525024" y="514.40741" xlink:href="https://images-na.ssl-images-amazon.com/images/I/415PeFEAGkL._SL160_.jpg" height="25" width="15.625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Make-Money-Blogging-Beyond-Online/dp/1979106452?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1979106452" id="1979106452">
+     <image id="svg_754" x="545.441764" y="482" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51gbfhnWDAL._SL160_.jpg" height="17" width="11.36875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/How-Blog-Profit-Without-Selling/dp/0692236511?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0692236511" id="692236511">
+     <image id="svg_755" x="599.073415" y="505.675388" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51zzGLxrJvL._SL160_.jpg" height="21" width="14.04375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Starting-Successful-Blog-when-have/dp/1519146124?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1519146124" id="1519146124">
+     <image id="svg_756" x="594.301524" y="554.081771" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41ZPqnBjhML._SL160_.jpg" height="17" width="11.15625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Marketing-4-0-Moving-Traditional-Digital/dp/1119341205?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119341205" id="1119341205">
+     <image id="svg_757" x="183.175692" y="285.25055" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51vtjagMe8L._SL160_.jpg" height="29" width="19.9375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Experience-When-Business-Meets-Design/dp/1118456548?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118456548" id="1118456548">
+     <image id="svg_758" x="392.553711" y="327" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51qyLEsQeqL._SL160_.jpg" height="13" width="16.774194"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Mapping-Experiences-Complete-Creating-Blueprints/dp/1491923539?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491923539" id="1491923539">
+     <image id="svg_759" x="565.600647" y="117" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51qcGQQPRbL._SL160_.jpg" height="23" width="28.527132"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/This-Service-Design-Doing-Applying/dp/1491927186?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491927186" id="1491927186">
+     <image id="svg_760" x="605.465938" y="146.562635" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41F1xtP7lEL._SL160_.jpg" height="24" width="30.23622"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Design-Thinking-Playbook-Transformation-Businesses/dp/1119467470?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119467470" id="1119467470">
+     <image id="svg_761" x="633.368586" y="185.500367" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ft9iOi5NL._SL160_.jpg" height="34" width="43.52"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ten-Types-Innovation-Discipline-Breakthroughs/dp/1118504240?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118504240" id="1118504240">
+     <image id="svg_762" x="677.940672" y="405.291549" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51XX8QXD4wL._SL160_.jpg" height="15" width="19.047619"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118968050" id="1118968050">
+     <image id="svg_763" x="628.583301" y="382.923095" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51AgjIlW4vL._SL160_.jpg" height="22" width="27.936508"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Design-Better-Business-Strategy-Innovation/dp/1119272114?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119272114" id="1119272114">
+     <image id="svg_764" x="671.591489" y="380.74945" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51sLKqCxI7L._SL160_.jpg" height="20" width="25.396825"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Practical-Management-Science-Wayne-Winston/dp/1305250907?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1305250907" id="1305250907">
+     <image id="svg_765" x="225.387644" y="805.981035" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51wF3i7fsjL._SL160_.jpg" height="20" width="16"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Data-Mining-Business-Analytics-Applications/dp/1118729277?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118729277" id="1118729277">
+     <image id="svg_766" x="208.024712" y="775.141177" xlink:href="https://images-na.ssl-images-amazon.com/images/I/61RGZFa42cL._SL160_.jpg" height="20" width="14"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Digital-Marketing-Dummies-Business-Personal/dp/1119235596?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119235596" id="1119235596">
+     <image id="svg_767" x="220.844156" y="165.238843" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51eWK5fyoDL._SL160_.jpg" height="20" width="16"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Marketing-Automation-Dummies-Mathew-Sweezey/dp/1118772229?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118772229" id="1118772229">
+     <image id="svg_768" x="226.656782" y="109.254951" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51a-45prCqL._SL160_.jpg" height="13" width="10.4"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Marketing-Dummies-Business-Personal-Finance/dp/1119330394?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119330394" id="1119330394">
+     <image id="svg_769" x="201.619651" y="86.501834" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51tQAoo3mSL._SL160_.jpg" height="21" width="16.66875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Marketing-Dummies-Jeanette-McMurtry/dp/1119365570?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119365570" id="1119365570">
+     <image id="svg_770" x="212.62602" y="124.265953" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51AC8TnA4ML._SL160_.jpg" height="14" width="11.1125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Facebook-Marketing-All-One-Dummies/dp/1118816188?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118816188" id="1118816188">
+     <image id="svg_771" x="207.868097" y="66" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51TI-hpWIhL._SL160_.jpg" height="14" width="11.375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/500-Social-Media-Marketing-Tips/dp/1983805912?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1983805912" id="1983805912">
+     <image id="svg_772" x="273.579849" y="149.253135" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51XmpD9tPlL._SL160_.jpg" height="42" width="28.0875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Instagram-Business-Dummies-Jennifer-Herman/dp/1119439817?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119439817" id="1119439817">
+     <image id="svg_773" x="432.89212" y="113" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51YP2EKZh5L._SL160_.jpg" height="17" width="13.6"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Guide-Facebook-Advertising-Potential/dp/159918611X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=159918611X" id="159918611X">
+     <image id="svg_774" x="393.61077" y="175.951988" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51CzdS9I8fL._SL160_.jpg" height="33" width="26.4"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Facebook-Dummies-Carolyn-Abram/dp/1119453860?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119453860" id="1119453860">
+     <image id="svg_775" x="224.766936" y="65.759675" xlink:href="https://images-na.ssl-images-amazon.com/images/I/412PeG5Qi4L._SL160_.jpg" height="14" width="10.85"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Complete-Guide-Facebook-Advertising/dp/0999308408?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0999308408" id="999308408">
+     <image id="svg_776" x="391.3461" y="97" xlink:href="https://images-na.ssl-images-amazon.com/images/I/5113RbvKx1L._SL160_.jpg" height="22" width="17.6"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Business-Writing-What-Works-Wont/dp/0312109482?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0312109482" id="312109482">
+     <image id="svg_777" x="206.832123" y="147" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ofItuRZRL._SL160_.jpg" height="14" width="11.4625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Content-Strategy-Web-Kristina-Halvorson/dp/0321808304?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321808304" id="321808304">
+     <image id="svg_778" x="384.037106" y="266.249817" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41ChAG0vphL._SL160_.jpg" height="13" width="10.075"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Adweek-Copywriting-Handbook-Advertising-Copywriters/dp/0470051248?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0470051248" id="470051248">
+     <image id="svg_779" x="334.760867" y="699.001535" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51qN3FFEq-L._SL160_.jpg" height="28" width="22.75"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119387507" id="1119387507">
+     <image id="svg_780" x="517.691628" y="168.79324" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41qpgpPyQJL._SL160_.jpg" height="20" width="13.25"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty/dp/149197172X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=149197172X" id="149197172X">
+     <image id="svg_781" x="638.887702" y="138.74945" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51MM-ojjthL._SL160_.jpg" height="22" width="27.286822"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=150112174X" id="150112174X">
+     <image id="svg_782" x="463.318662" y="406.677462" xlink:href="https://images-na.ssl-images-amazon.com/images/I/512V%2BzNxQ9L._SL160_.jpg" height="18" width="11.8125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591847788" id="1591847788">
+     <image id="svg_783" x="485.766184" y="338.243216" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41aMEH29Z-L._SL160_.jpg" height="31" width="20.5375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation/dp/1633691780?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1633691780" id="1633691780">
+     <image id="svg_784" x="412.113919" y="745.500367" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Ngk5BJi1L._SL160_.jpg" height="42" width="28.0875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Innovation-Entrepreneurship-John-Bessant/dp/1118993098?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118993098" id="1118993098">
+     <image id="svg_785" x="209.348428" y="854.161284" xlink:href="https://images-na.ssl-images-amazon.com/images/I/514Z0moHUNL._SL160_.jpg" height="12" width="9.525"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Strategic-Planning-Interactive-Process-Leaders/dp/0809149206?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0809149206" id="809149206">
+     <image id="svg_786" x="184.227986" y="843.471934" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41POoPTQC7L._SL160_.jpg" height="27" width="18.225"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Strategic-Planning-David-R-Mcclean/dp/1483422445?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1483422445" id="1483422445">
+     <image id="svg_787" x="194.742281" y="803.380593" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51KA2otyYmL._SL160_.jpg" height="27" width="20.75625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/SEO-Dummies-Peter-Kent/dp/1119129559?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119129559" id="1119129559">
+     <image id="svg_788" x="227.297478" y="124.993399" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51vu41bvVGL._SL160_.jpg" height="14" width="11.1125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Search-Optimization-Internet-Marketing-Strateg/dp/1979286973?psc=1&amp;SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1979286973" id="1979286973">
+     <image id="svg_789" x="372.433162" y="21.999267" xlink:href="https://images-na.ssl-images-amazon.com/images/I/518AD3S1E7L._SL160_.jpg" height="38" width="25.4125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Months-No-1-No-Nonsense-Playbook-Getting/dp/1522005676?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1522005676" id="1522005676">
+     <image id="svg_790" x="275.959707" y="121.188735" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51jGNePOs2L._SL160_.jpg" height="18" width="12.0375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/SEO-Fitness-Workbook-Optimization-Success/dp/1540537692?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1540537692" id="1540537692">
+     <image id="svg_791" x="368.353973" y="99" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41-Owy8NSYL._SL160_.jpg" height="20" width="15.5"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/SEO-Growth-Marketers-Designers-Entrepreneurs/dp/0692769447?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0692769447" id="692769447">
+     <image id="svg_792" x="314.822297" y="98.095245" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51TI%2B0WAM-L._SL160_.jpg" height="15" width="10.03125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Objections-Ultimate-Mastering-Science-Getting/dp/1119477387?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119477387" id="1119477387">
+     <image id="svg_793" x="520.97821" y="136" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41D4Bqxip5L._SL160_.jpg" height="23" width="15.09375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Fanatical-Prospecting-Conversations-Leveraging-Telephone/dp/1119144752?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119144752" id="1119144752">
+     <image id="svg_794" x="542.903363" y="137.022004" xlink:href="https://images-na.ssl-images-amazon.com/images/I/411i2YHFkdL._SL160_.jpg" height="22" width="14.3"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Power-Phone-Scripts-Word-Word/dp/1119418070?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119418070" id="1119418070">
+     <image id="svg_795" x="492.203176" y="115.500367" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51CPw3Ib-VL._SL160_.jpg" height="23" width="15.2375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Critical-Principles-Effective-Digital-Marketing/dp/1542991005?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1542991005" id="1542991005">
+     <image id="svg_796" x="233.785385" y="224.674293" xlink:href="https://images-na.ssl-images-amazon.com/images/I/518dbgKxmRL._SL160_.jpg" height="22" width="14.7125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Digital-Marketers-Sound-Off-Predictions/dp/0692121595?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0692121595" id="692121595">
+     <image id="svg_797" x="230.168032" y="146.252854" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41BoFbivLwL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/1-Page-Marketing-Plan-Customers-Money/dp/1989025013?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1989025013" id="1989025013">
+     <image id="svg_798" x="327.278359" y="286.721225" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51uazlzVSLL._SL160_.jpg" height="42" width="28.0875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Google-AdWords-Beginners-Do-Yourself/dp/1515074447?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1515074447" id="1515074447">
+     <image id="svg_799" x="300.21774" y="125.244125" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ppUu3hguL._SL160_.jpg" height="13" width="8.69375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Art-Digital-Marketing-Definitive-Measurable/dp/1119265703?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119265703" id="1119265703">
+     <image id="svg_800" x="207.187923" y="226.607101" xlink:href="https://images-na.ssl-images-amazon.com/images/I/5186fAvEiQL._SL160_.jpg" height="17" width="11.79375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Digital-Marketing-Strategy-Integrated-Approach/dp/074947470X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=074947470X" id="074947470X">
+     <image id="svg_801" x="143.980779" y="190.690635" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51UU-yeHKlL._SL160_.jpg" height="19" width="12.70625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Digital-Marketing-Integrating-Guidebook-Executives/dp/0415716756?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0415716756" id="415716756">
+     <image id="svg_802" x="240.148575" y="166.439588" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51PRPKqJQvL._SL160_.jpg" height="13" width="16.377953"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Digital-Marketing-Tactics-Experts-Techniques/dp/0988403951?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0988403951" id="988403951">
+     <image id="svg_803" x="148.116235" y="121.852266" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41lTo437gZL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Digital-Marketing-Handbook-Step-Step/dp/1599186217?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599186217" id="1599186217">
+     <image id="svg_804" x="424.149134" y="379.06366" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51kt8EffIkL._SL160_.jpg" height="17" width="11.36875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Understanding-Digital-Marketing-Strategies-Generation/dp/0749478438?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0749478438" id="749478438">
+     <image id="svg_805" x="162.855652" y="127" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41WUKMI-0DL._SL160_.jpg" height="13" width="8.69375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Digital-Marketing-Analytics-Consumer-Biz-Tech/dp/0789759608?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0789759608" id="789759608">
+     <image id="svg_806" x="163.382993" y="145.377634" xlink:href="https://images-na.ssl-images-amazon.com/images/I/515NPQkfntL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Digital-Marketing-6th-Dave-Chaffey/dp/1292077611?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1292077611" id="1292077611">
+     <image id="svg_807" x="204.092986" y="207.76412" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51PO2O9KSKL._SL160_.jpg" height="12" width="8.85"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ecommerce-Evolved-Essential-Playbook-Successful/dp/1534619348?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1534619348" id="1534619348">
+     <image id="svg_808" x="102.905125" y="443.670583" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51xcB3KJ1QL._SL160_.jpg" height="23" width="14.95"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Starting-Business-Dummies-Personal-Finance/dp/1119315522?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119315522" id="1119315522">
+     <image id="svg_809" x="84.789052" y="504.492298" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51asfbrD6uL._SL160_.jpg" height="15" width="11.90625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Online-Business-Scratch-Seven-Figure-Information/dp/1539737675?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1539737675" id="1539737675">
+     <image id="svg_810" x="107.727034" y="476.249819" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41NmI6lKrHL._SL160_.jpg" height="15" width="9.75"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Launch-Internet-Millionaires-Anything-Business/dp/1630470171?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1630470171" id="1630470171">
+     <image id="svg_811" x="135.58345" y="559.300171" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51eNdumuB1L._SL160_.jpg" height="21" width="14.04375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Product-Research-101-Winning-Products/dp/1537483730?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1537483730" id="1537483730">
+     <image id="svg_812" x="164.516888" y="587.413589" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51dj6x-EfkL._SL160_.jpg" height="19" width="12.35"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Facebook-Marketing-Dummies-Stephanie-Diamond/dp/1119476216?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119476216" id="1119476216">
+     <image id="svg_813" x="227.100044" y="86.772188" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51jGLeIJIxL._SL160_.jpg" height="14" width="11.2"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Social-Media-Marketing-Workbook-Business/dp/1539598144?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1539598144" id="1539598144">
+     <image id="svg_814" x="183.910583" y="58" xlink:href="https://images-na.ssl-images-amazon.com/images/I/512u%2BvhL60L._SL160_.jpg" height="22" width="17.05"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Social-Media-Marketing-Instructions-Advertising/dp/1984909932?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1984909932" id="1984909932">
+     <image id="svg_815" x="315.961696" y="121.869388" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41EsFAqhVaL._SL160_.jpg" height="20" width="13.375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Marketing-3-0-Products-Customers-Spirit/dp/0470598824?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0470598824" id="470598824">
+     <image id="svg_816" x="126.524328" y="168.352308" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51EsziFl60L._SL160_.jpg" height="13" width="8.6125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Contagious-Things-Catch-Jonah-Berger/dp/1451686587?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1451686587" id="1451686587">
+     <image id="svg_817" x="278.489038" y="267.990546" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41FJ2mIlxgL._SL160_.jpg" height="30" width="19.6875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Brand-Flip-customers-companies-profit/dp/0134172817?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0134172817" id="134172817">
+     <image id="svg_818" x="185.344082" y="205.934233" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41rgA%2BfYItL._SL160_.jpg" height="15" width="11.34375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Growth-Hacker-Marketing-Primer-Advertising/dp/1591847389?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591847389" id="1591847389">
+     <image id="svg_819" x="420.47818" y="404.865997" xlink:href="https://images-na.ssl-images-amazon.com/images/I/616KmzCTg6L._SL160_.jpg" height="27" width="17.71875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/All-Marketers-are-Liars-Works-/dp/1591845335?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591845335" id="1591845335">
+     <image id="svg_820" x="117.417742" y="127.137383" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51j6ieM83XL._SL160_.jpg" height="32" width="22.8"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/What-Marketing-Harvard-Business-Review/dp/1422104605?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1422104605" id="1422104605">
+     <image id="svg_821" x="184.234805" y="257.505501" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41zvGusv36L._SL160_.jpg" height="15" width="9.84375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Likeable-Social-Media-Revised-Expanded/dp/0071836322?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0071836322" id="71836322">
+     <image id="svg_822" x="185.157029" y="86.569611" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51d-n%2B16-lL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/This-How-You-Pitch-First/dp/0989608042?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0989608042" id="989608042">
+     <image id="svg_823" x="247.762116" y="209.192277" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Yp245TGyL._SL160_.jpg" height="13" width="8.69375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0718033329" id="718033329">
+     <image id="svg_824" x="212.237733" y="315.750183" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41gwu0NcCrL._SL160_.jpg" height="37" width="24.28125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Social-Media-Public-Relations-Professional/dp/0132983214?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0132983214" id="132983214">
+     <image id="svg_825" x="189.698026" y="175.596683" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51E713Jg54L._SL160_.jpg" height="13" width="8.775"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/CEOs-Guide-Marketing-Marketer-Should/dp/0999069306?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0999069306" id="999069306">
+     <image id="svg_826" x="411.369345" y="351.998844" xlink:href="https://images-na.ssl-images-amazon.com/images/I/61eZIX6JI-L._SL160_.jpg" height="20" width="20"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Instagram-Secrets-Underground-Generating-Predictable/dp/0692873953?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0692873953" id="692873953">
+     <image id="svg_827" x="381.97818" y="286.721222" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51gZPJFNH-L._SL160_.jpg" height="25" width="16.71875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Styling-Instagram-What-Style-How/dp/1250182212?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1250182212" id="1250182212">
+     <image id="svg_828" x="462.721546" y="345.26522" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51prr59nA-L._SL160_.jpg" height="15" width="12.5625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Guide-Instagram-Business/dp/1599186020?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599186020" id="1599186020">
+     <image id="svg_829" x="434.379276" y="207.499633" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51oA8B65LjL._SL160_.jpg" height="27" width="21.6"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Instagram-Marketing-Step-Step-Strategies/dp/1973401762?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1973401762" id="1973401762">
+     <image id="svg_830" x="340.408594" y="85.500367" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41hFXuq8RUL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Innovation-Design-Organization-Meaningful-Solutions/dp/1632651165?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1632651165" id="1632651165">
+     <image id="svg_831" x="673.658145" y="156.838066" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41GYUtV5YYL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Orchestrating-Experiences-Collaborative-Design-Complexity/dp/193382073X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=193382073X" id="193382073X">
+     <image id="svg_832" x="614.487549" y="180.279739" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41ZauxR15WL._SL160_.jpg" height="16" width="10.7"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Digital-Transformation-Playbook-Business-Publishing/dp/0231175442?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0231175442" id="231175442">
+     <image id="svg_833" x="647.299927" y="166" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51AyFKaCO9L._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Field-Guide-Human-Centered-Design/dp/0991406311?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0991406311" id="991406311">
+     <image id="svg_834" x="583.837524" y="152.300049" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41Sj42ZcTCL._SL160_.jpg" height="14" width="14"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Guide-Google-AdWords-Million/dp/1599186128?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599186128" id="1599186128">
+     <image id="svg_835" x="413.39706" y="248.750183" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51OzUTtlN0L._SL160_.jpg" height="30" width="23.8125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Guide-YouTube-Business/dp/1599186195?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599186195" id="1599186195">
+     <image id="svg_836" x="412.046019" y="150.558548" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51DhUZ7DOLL._SL160_.jpg" height="19" width="15.08125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/LinkedIn-Unlocked-Mystery-Through-Selling/dp/1987473787?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1987473787" id="1987473787">
+     <image id="svg_837" x="476.670614" y="125.35841" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41nYH%2BgtUnL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Storynomics-Story-Driven-Marketing-Post-Advertising-World/dp/1538727935?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1538727935" id="1538727935">
+     <image id="svg_838" x="147.761673" y="438" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51KuNj3QhGL._SL160_.jpg" height="21" width="14.30625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Storytelling-Edge-Transform-Business-Screaming/dp/1119483352?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119483352" id="1119483352">
+     <image id="svg_839" x="115.6474" y="536" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41m5PU40ofL._SL160_.jpg" height="14" width="9.275"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Story-Driven-dont-need-compete/dp/099443281X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=099443281X" id="099443281X">
+     <image id="svg_840" x="116.43454" y="505.750917" xlink:href="https://images-na.ssl-images-amazon.com/images/I/410lLueiPEL._SL160_.jpg" height="21" width="13.78125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Creating-Signature-Stories-Strategic-Messaging/dp/1683506111?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1683506111" id="1683506111">
+     <image id="svg_841" x="137.685181" y="585.001467" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41I9FDYaQrL._SL160_.jpg" height="14" width="9.1"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/10x-Marketing-Formula-Blueprint-Competition-Free/dp/0692048278?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0692048278" id="692048278">
+     <image id="svg_842" x="354.308824" y="525.266222" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41nL8LiXxwL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Inbound-Content-Step-Step-Marketing/dp/1119488958?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119488958" id="1119488958">
+     <image id="svg_843" x="227.650601" y="366" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41aLqwIjbyL._SL160_.jpg" height="13" width="8.36875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Lost-Founder-Painfully-Honest-Startup/dp/0735213321?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0735213321" id="735213321">
+     <image id="svg_844" x="331.28549" y="532.371334" xlink:href="https://images-na.ssl-images-amazon.com/images/I/515fRSHKzIL._SL160_.jpg" height="13" width="8.6125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/How-Style-Your-Brand-Distinctive/dp/0956454534?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0956454534" id="956454534">
+     <image id="svg_845" x="416.0181" y="506.226833" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51MU394-7gL._SL160_.jpg" height="15" width="12"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Brand-Brilliance-Elevate-Enchant-Audience/dp/0956454542?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0956454542" id="956454542">
+     <image id="svg_846" x="398.685522" y="489.979903" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51hWsmrbG8L._SL160_.jpg" height="15" width="11.8125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Post-Influencer-Marketer-Step-Step/dp/1981064516?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1981064516" id="1981064516">
+     <image id="svg_847" x="446.138097" y="367.645306" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ZXeMSO64L._SL160_.jpg" height="15" width="10.40625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Strategic-Management-Concepts-Competitiveness-Globalization/dp/1305502140?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1305502140" id="1305502140">
+     <image id="svg_848" x="165.678544" y="567.300187" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51A7LDevXDL._SL160_.jpg" height="13" width="10.31875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216355?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0735216355" id="735216355">
+     <image id="svg_849" x="524.715091" y="478.738993" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41iErnLQEWL._SL160_.jpg" height="20" width="13.25"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Mastering-Market-Cycle-Getting-Odds/dp/1328479250?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1328479250" id="1328479250">
+     <image id="svg_850" x="469.093652" y="623.249817" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41poPsIVFlL._SL160_.jpg" height="17" width="11.36875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/High-Growth-Handbook-Elad-Gil/dp/1732265100?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1732265100" id="1732265100">
+     <image id="svg_851" x="378.313904" y="587" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41NIPWM5OSL._SL160_.jpg" height="28" width="18.9"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1501124021" id="1501124021">
+     <image id="svg_852" x="480.385529" y="549.9978" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41cEbWztZYL._SL160_.jpg" height="23" width="15.38125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1328994961" id="1328994961">
+     <image id="svg_853" x="565.381287" y="526.376343" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51lCGlVV7HL._SL160_.jpg" height="13" width="9.9125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Building-Story-Brand-Customers-paperback/dp/1404107215?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1404107215" id="1404107215">
+     <image id="svg_854" x="257.275269" y="305.010268" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41OX5DSzLvL._SL160_.jpg" height="20" width="13.375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Write-Copy-Sells-Step-Step/dp/161448502X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=161448502X" id="161448502X">
+     <image id="svg_855" x="208.240664" y="354.249817" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51YPceLogJL._SL160_.jpg" height="25" width="16.25"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Explosive-Growth-Learned-Growing-Million/dp/1619617692?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1619617692" id="1619617692">
+     <image id="svg_856" x="303.615871" y="523.600038" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41cs8nzAXaL._SL160_.jpg" height="22" width="14.4375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Smart-Policies-Workplace-Technologies-Technology/dp/1413323537?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1413323537" id="1413323537">
+     <image id="svg_857" x="174.342926" y="797.24646" xlink:href="https://images-na.ssl-images-amazon.com/images/I/515WcLOULzL._SL160_.jpg" height="15" width="11.625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Create-Your-Own-Employee-Handbook/dp/1413323979?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1413323979" id="1413323979">
+     <image id="svg_858" x="163.980896" y="816.750917" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Zj6hTrleL._SL160_.jpg" height="12" width="9.225"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/HBRs-10-Must-Reads-Strategy/dp/1422157989?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1422157989" id="1422157989">
+     <image id="svg_859" x="154.101151" y="762" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41D0fG8xOML._SL160_.jpg" height="28" width="18.725"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Quality-Control-Dale-Besterfield-Ph-D/dp/0135000955?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0135000955" id="135000955">
+     <image id="svg_860" x="296.711271" y="747.16726" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41bjRyqo4iL._SL160_.jpg" height="12" width="9.75"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/New-Economics-Industry-Government-Education/dp/0262541165?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0262541165" id="262541165">
+     <image id="svg_861" x="153.074609" y="796.581379" xlink:href="https://images-na.ssl-images-amazon.com/images/I/413P0X7tHYL._SL160_.jpg" height="12" width="7.875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Statistical-Quality-Control-Douglas-Montgomery/dp/1118146816?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1118146816" id="1118146816">
+     <image id="svg_862" x="224.494545" y="838.122085" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51SjXf2yK%2BL._SL160_.jpg" height="12" width="9.675"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Wisdom-Crowds-James-Surowiecki/dp/0385721706?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0385721706" id="385721706">
+     <image id="svg_863" x="322.812561" y="742.296631" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51eBZw7KQbL._SL160_.jpg" height="17" width="11.05"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Future-Management-Gary-Hamel/dp/1422102505?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1422102505" id="1422102505">
+     <image id="svg_864" x="396.75943" y="760.158142" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41bvJfGyf1L._SL160_.jpg" height="17" width="11.15625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Shopping-Revolution-Successful-Retailers-Disruption/dp/1613630867?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1613630867" id="1613630867">
+     <image id="svg_865" x="243.703402" y="305.25055" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41NbZdt0AcL._SL160_.jpg" height="15" width="9.75"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Groundswell-Expanded-Revised-Transformed-Technologies/dp/1422161986?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1422161986" id="1422161986">
+     <image id="svg_866" x="243.373209" y="284.742848" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41cKM95kRwL._SL160_.jpg" height="15" width="9.84375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/HBRs-Must-Reads-Strategic-Marketing/dp/1422189880?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1422189880" id="1422189880">
+     <image id="svg_867" x="213.05315" y="608.503565" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41VUEg9ijlL._SL160_.jpg" height="12" width="8.025"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1422196577?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1422196577" id="1422196577">
+     <image stroke="null" id="svg_868" x="454.998411" y="720.996333" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51qWWOy59TL._SL160_.jpg" height="19" width="12.825"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/dp/0062435612?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0062435612" id="62435612">
+     <image id="svg_869" x="322.527374" y="742" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51uPzq9f3ZL._SL160_.jpg" height="17" width="11.2625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0062292986" id="62292986">
+     <image id="svg_870" x="493.352943" y="632.249817" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41AJKOyiGML._SL160_.jpg" height="28" width="18.55"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Marketing-Plan-Audience-Message/dp/1440511845?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1440511845" id="1440511845">
+     <image id="svg_871" x="536.310825" y="735.795721" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51dJ89RKYpL._SL160_.jpg" height="24" width="15.6"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Sales-Letter-Attract-Customers/dp/1440511411?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1440511411" id="1440511411">
+     <image id="svg_872" x="447.153979" y="746.034611" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41erT6ffdWL._SL160_.jpg" height="34" width="22.1"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Guide-Direct-Response-Social-Marketing/dp/1599185776?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599185776" id="1599185776">
+     <image id="svg_873" x="501.39517" y="664.750917" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51J7WXz5vaL._SL160_.jpg" height="27" width="18.05625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Boron-Letters-Gary-C-Halbert/dp/1484825985?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1484825985" id="1484825985">
+     <image id="svg_874" x="317.868694" y="771.34463" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41gJGy3jLhL._SL160_.jpg" height="26" width="20.15"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/B-S-Direct-Marketing-Non-Direct-Businesses/dp/159918625X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=159918625X" id="159918625X">
+     <image id="svg_875" x="464.482602" y="648.185856" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51LgSZOiDbL._SL160_.jpg" height="19" width="12.70625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/B-S-Direct-Marketing-Non-Direct-Businesses/dp/1599185016?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599185016" id="1599185016">
+     <image id="svg_876" x="508.751779" y="733.253484" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51BwSCRQPJL._SL160_.jpg" height="22" width="14.7125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Guide-Maximum-Referrals-Customer-Retention/dp/1599185849?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599185849" id="1599185849">
+     <image id="svg_877" x="485.585725" y="705.675664" xlink:href="https://images-na.ssl-images-amazon.com/images/I/61h8HGMDK4L._SL160_.jpg" height="24" width="15.9"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Speak-Sell-Influence-Establish-Authority/dp/1599327716?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599327716" id="1599327716">
+     <image id="svg_878" x="484.37426" y="758.755318" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51z8LdAAbQL._SL160_.jpg" height="22" width="14.575"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Halbert-Copywriting-Method-Part-III/dp/1534632050?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1534632050" id="1534632050">
+     <image id="svg_879" x="300.941793" y="684.810326" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Mys0-ggrL._SL160_.jpg" height="21" width="16.275"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/1591848369?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591848369" id="1591848369">
+     <image id="svg_880" x="467.120455" y="447.727786" xlink:href="https://images-na.ssl-images-amazon.com/images/I/516wC%2B152OL._SL160_.jpg" height="15" width="9.9375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/UX-Strategy-Innovative-Digital-Products/dp/1449372864?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1449372864" id="1449372864">
+     <image id="svg_881" x="584.862642" y="177.520905" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51EVg9SGmGL._SL160_.jpg" height="23" width="15.525"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0321965515" id="321965515">
+     <image id="svg_882" x="549.422465" y="167.764119" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51pnouuPO5L._SL160_.jpg" height="27" width="20.925"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Expert-Secrets-Underground-Playbook-Creating/dp/1683504585?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1683504585" id="1683504585">
+     <image id="svg_883" x="223.761916" y="586.297315" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51P9eGakN8L._SL160_.jpg" height="21" width="13.65"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Millionaire-Messenger-Difference-Fortune-Sharing/dp/1451665997?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1451665997" id="1451665997">
+     <image id="svg_884" x="185.668176" y="587.622698" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41H1yvTi11L._SL160_.jpg" height="13" width="8.45"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/DotCom-Secrets-Underground-Playbook-Growing/dp/1630474770?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1630474770" id="1630474770">
+     <image id="svg_885" x="258.547265" y="603.989319" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51XnVFDFoQL._SL160_.jpg" height="21" width="13.3875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Invisible-Influence-Hidden-Forces-Behavior/dp/1476759731?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1476759731" id="1476759731">
+     <image id="svg_886" x="306.875036" y="266.249817" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41vzMUqPH9L._SL160_.jpg" height="13" width="8.53125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Art-Pitch-Persuasion-Presentation-Business/dp/0230120512?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0230120512" id="230120512">
+     <image id="svg_887" x="241.57132" y="184.125593" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41%2B2Bsi8AiL._SL160_.jpg" height="22" width="14.575"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Advertising-Concept-Book-Think-Design/dp/0500292671?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0500292671" id="500292671">
+     <image id="svg_888" x="303.652439" y="286.721231" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51YzT62wu%2BL._SL160_.jpg" height="22" width="17.875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Badass-Blog-Planner-defining-creating/dp/1505601304?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1505601304" id="1505601304">
+     <image id="svg_889" x="564.276381" y="482.750183" xlink:href="https://images-na.ssl-images-amazon.com/images/I/519alKbDe0L._SL160_.jpg" height="16" width="12.4"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Blog-Inc-Blogging-Passion-Community/dp/1452107203?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1452107203" id="1452107203">
+     <image id="svg_890" x="569.745483" y="576" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51zVIlkxZsL._SL160_.jpg" height="19" width="13.0625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/EPIC-BLOG-One-Year-Editorial-Planner/dp/0988780070?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0988780070" id="988780070">
+     <image id="svg_891" x="544.149961" y="576.249817" xlink:href="https://images-na.ssl-images-amazon.com/images/I/31Pe0aAeFaL._SL160_.jpg" height="17" width="13.175"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Story-Substance-Structure-Principles-Screenwriting/dp/0060391685?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0060391685" id="60391685">
+     <image id="svg_892" x="84.448067" y="453.362257" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51stLU5b8oL._SL160_.jpg" height="15" width="10.03125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Dialogue-Verbal-Action-Stage-Screen/dp/1455591912?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1455591912" id="1455591912">
+     <image id="svg_893" x="110.975548" y="578.265686" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51xZFv%2BX5qL._SL160_.jpg" height="17" width="11.9"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Scientific-Advertising-Claude-Hopkins/dp/1603866361?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1603866361" id="1603866361">
+     <image id="svg_894" x="372.026203" y="738" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51u-4obaPLL._SL160_.jpg" height="21" width="14.04375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ogilvy-Advertising-David/dp/039472903X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=039472903X" id="039472903X">
+     <image id="svg_895" x="345.741497" y="733.024938" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51L6gps0IfL._SL160_.jpg" height="27" width="20.41875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/How-Write-Good-Advertisement-Copywriting/dp/1626549621?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1626549621" id="1626549621">
+     <image id="svg_896" x="296.201086" y="805.257885" xlink:href="https://images-na.ssl-images-amazon.com/images/I/512woiedGPL._SL160_.jpg" height="24" width="16.65"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/This-book-teach-write-better/dp/0989895300?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0989895300" id="989895300">
+     <image id="svg_897" x="273.897304" y="805.597415" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41x69KcXm1L._SL160_.jpg" height="20" width="13.375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/CA-HVERTISING-Ad-Agency-Psychology-Anything/dp/1601630328?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1601630328" id="1601630328">
+     <image id="svg_898" x="273.738254" y="758.991198" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51H-cf1PJ7L._SL160_.jpg" height="23" width="15.38125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Marketing-Love-Story-Matter-Customers/dp/1500619213?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1500619213" id="1500619213">
+     <image id="svg_899" x="67.913105" y="467.238533" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41thQHeVaAL._SL160_.jpg" height="15" width="9.84375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Fortune-Cookie-Principle-great-business/dp/1489583947?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1489583947" id="1489583947">
+     <image id="svg_900" x="102.026718" y="558.002563" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41LK1abKOaL._SL160_.jpg" height="14" width="9.1"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Difference-one-page-reimagining-reinventing-marketing/dp/1494842718?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1494842718" id="1494842718">
+     <image id="svg_901" x="84.789057" y="476.249817" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41Ptszk%2BnUL._SL160_.jpg" height="14" width="9.1875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Meaningful-Story-Ideas-That-Fly/dp/0994432801?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0994432801" id="994432801">
+     <image id="svg_902" x="68.569357" y="488.705698" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41osOh8qRwL._SL160_.jpg" height="14" width="9.1875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Art-SEO-Mastering-Search-Optimization/dp/1491948965?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1491948965" id="1491948965">
+     <image id="svg_903" x="278.139601" y="97.818567" xlink:href="https://images-na.ssl-images-amazon.com/images/I/515E4Ak4HBL._SL160_.jpg" height="14" width="10.675"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0679762884" id="679762884">
+     <image id="svg_904" x="412.30816" y="644.972845" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51IXfgjZNgL._SL160_.jpg" height="37" width="24.05"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0525536221" id="525536221">
+     <image id="svg_905" x="411.989685" y="560" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51G-XiecxvL._SL160_.jpg" height="20" width="13.25"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0060833459" id="60833459">
+     <image id="svg_906" x="450.637543" y="676.42529" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Ebr46zn0L._SL160_.jpg" height="32" width="20.4"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0062273205" id="62273205">
+     <image id="svg_907" x="443.417304" y="605.140675" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51slqM2g3jL._SL160_.jpg" height="36" width="23.85"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1501197274" id="1501197274">
+     <image id="svg_908" x="425.41568" y="481.804718" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41xzLNSJ94L._SL160_.jpg" height="15" width="9.84375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/CREATE-Blog-Editorial-Planner-Exceptional/dp/1548746207?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1548746207" id="1548746207">
+     <image id="svg_909" x="375.90802" y="547" xlink:href="https://images-na.ssl-images-amazon.com/images/I/310oy86ycML._SL160_.jpg" height="20" width="15.5"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/New-Email-Revolution-Emails-Actually/dp/1510727914?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1510727914" id="1510727914">
+     <image id="svg_910" x="554.140892" y="505.956726" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ovPwZLmmL._SL160_.jpg" height="13" width="8.69375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Guide-Email-Marketing-Business/dp/1599186233?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599186233" id="1599186233">
+     <image id="svg_911" x="392.421001" y="150.518704" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51840%2BcCB2L._SL160_.jpg" height="17" width="13.6"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/AdWords-Workbook-Advertising-YouTube-Display/dp/1545345015?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1545345015" id="1545345015">
+     <image id="svg_912" x="296.654398" y="97.485466" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41lKSSCWFFL._SL160_.jpg" height="16" width="12.4"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/My-Blogging-Secrets-becoming-pro-blogger/dp/1520631979?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1520631979" id="1520631979">
+     <image id="svg_913" x="506.822113" y="558.081789" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41TK%2BIerGQL._SL160_.jpg" height="13" width="8.53125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Lazy-Mans-Guide-Living-Good/dp/1520922620?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1520922620" id="1520922620">
+     <image id="svg_914" x="193.238953" y="567.300171" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Vh%2BilnCwL._SL160_.jpg" height="13" width="8.69375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/10-Pillars-Wealth-Mind-Sets-Richest/dp/1612549209?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1612549209" id="1612549209">
+     <image id="svg_915" x="119.427839" y="785.423116" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41kjE6PR3yL._SL160_.jpg" height="13" width="8.45"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/2018-No-Bullsh-Strategy-Step-Step/dp/164204363X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=164204363X" id="164204363X">
+     <image id="svg_916" x="378.18811" y="67" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51KwXvdmCQL._SL160_.jpg" height="16" width="10.4"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Mastering-Google-Adwords-Step-Step/dp/171898832X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=171898832X" id="171898832X">
+     <image id="svg_917" x="444.247451" y="186.022003" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51YjnSZ-7CL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Your-First-100-Customers-Marketing/dp/1986802558?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1986802558" id="1986802558">
+     <image id="svg_918" x="259.157562" y="374" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51QaUhUvofL._SL160_.jpg" height="16" width="10"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Blitzscaling-Lightning-Fast-Building-Massively-Companies/dp/1524761419?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1524761419" id="1524761419">
+     <image id="svg_919" x="367.80769" y="522.500367" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51DlsAs1p7L._SL160_.jpg" height="16" width="10.7"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Messy-Middle-Finding-Through-Hardest/dp/0735218072?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0735218072" id="735218072">
+     <image id="svg_920" x="326.612689" y="557.260491" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51NwbPx0HrL._SL160_.jpg" height="14" width="10.85"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/This-Marketing-Cant-Until-Learn/dp/0525540830?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0525540830" id="525540830">
+     <image id="svg_921" x="249.775055" y="349.459534" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51UYILvuvtL._SL160_.jpg" height="20" width="14.125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Subscribed-Subscription-Model-Companys-Future/dp/0525536469?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0525536469" id="525536469">
+     <image id="svg_922" x="261.572968" y="571.612732" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41E8v%2BWRXHL._SL160_.jpg" height="15" width="9.9375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Bootstrapping-commerce-Sell-Amazon-Revised/dp/0997855371?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0997855371" id="997855371">
+     <image id="svg_923" x="84.215676" y="526.249817" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51u2eXSLoNL._SL160_.jpg" height="17" width="11.36875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Building-StoryBrand-Donald-Miller/dp/1536693170?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1536693170" id="1536693170">
+     <image id="svg_924" x="354.838472" y="267.249815" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41msA9Aw%2BHL._SL160_.jpg" height="12" width="7.5"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/SUMMARY-StoryBrand-Persuasion-Copywriting-Storytelling/dp/1719219338?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1719219338" id="1719219338">
+     <image id="svg_925" x="429.595898" y="321.417579" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Rr6VM0FtL._SL160_.jpg" height="14" width="8.75"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Social-Media-Strategies-Mastering-Instagram/dp/1537268031?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1537268031" id="1537268031">
+     <image id="svg_926" x="203.658129" y="175.448405" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51ICi-%2Ba2RL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Story-Engine-entrepreneurs-strategy-storytelling/dp/154642458X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=154642458X" id="154642458X">
+     <image id="svg_927" x="281.926418" y="305.000733" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41cdzcVYDlL._SL160_.jpg" height="15" width="9.75"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Choice-Factory-behavioural-biases-influence/dp/085719609X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=085719609X" id="085719609X">
+     <image id="svg_928" x="69.388108" y="505.325475" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51A3CsYvjSL._SL160_.jpg" height="13" width="8.36875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Click-Millionaires-Work-Internet-Business/dp/0814431917?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0814431917" id="814431917">
+     <image id="svg_929" x="99.029829" y="536.639836" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41lnUoxT5TL._SL160_.jpg" height="13" width="8.6125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Four-Step-Marketing-Blueprint-Competition/dp/0999217607?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0999217607" id="999217607">
+     <image id="svg_930" x="321.972797" y="265.900646" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41JLotfgPdL._SL160_.jpg" height="13" width="8.45"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/One-Many-Secret-Webinar-Success/dp/1544500629?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1544500629" id="1544500629">
+     <image id="svg_931" x="325.363832" y="645.805491" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41s%2BmRZiOaL._SL160_.jpg" height="13" width="8.45"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ask-Ryan-Levesque/dp/1939447720?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1939447720" id="1939447720">
+     <image id="svg_932" x="214.334832" y="387.3328" xlink:href="https://images-na.ssl-images-amazon.com/images/I/411g-e9-mvL._SL160_.jpg" height="17" width="11.475"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Authority-Marketing-Leadership-Competition-Irrelevant/dp/1946633135?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1946633135" id="1946633135">
+     <image id="svg_933" x="366.385986" y="626" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41g5xLnfQKL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Clockwork-Design-Your-Business-Itself/dp/0525534016?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0525534016" id="525534016">
+     <image id="svg_934" x="445.647223" y="507.5011" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41gO2N4o0EL._SL160_.jpg" height="20" width="13.25"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Retention-Point-Subscription-Associations-Subscription-Based/dp/0692094555?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0692094555" id="692094555">
+     <image id="svg_935" x="285.958357" y="572.771539" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51k3BGw7bFL._SL160_.jpg" height="16" width="10.4"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Your-Best-Year-2018-Productivity/dp/197757212X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=197757212X" id="197757212X">
+     <image id="svg_936" x="387.563801" y="523.775661" xlink:href="https://images-na.ssl-images-amazon.com/images/I/5199VA3Tf-L._SL160_.jpg" height="13" width="10.075"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Tribes-We-Need-You-Lead/dp/1591842336?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591842336" id="1591842336">
+     <image id="svg_937" x="162.772962" y="217.771454" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51QLLBtcCFL._SL160_.jpg" height="21" width="14.56875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591841666" id="1591841666">
+     <image id="svg_938" x="189.971878" y="147.478363" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41zRc3yW5EL._SL160_.jpg" height="21" width="14.83125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591844096" id="1591844096">
+     <image id="svg_939" x="145.137968" y="139.500367" xlink:href="https://images-na.ssl-images-amazon.com/images/I/513h1nKXJbL._SL160_.jpg" height="20" width="13"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Purple-Cow-Transform-Business-Remarkable/dp/014101640X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=014101640X" id="014101640X">
+     <image id="svg_940" x="142.694547" y="165.320741" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51gbA6GgRiL._SL160_.jpg" height="21" width="13.78125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Permission-Marketing-Turning-Strangers-Customers/dp/0684856360?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0684856360" id="684856360">
+     <image id="svg_941" x="168.870164" y="168.230549" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51j2nwzlICL._SL160_.jpg" height="18" width="13.1625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Toilet-Paper-Entrepreneur-tell-like-/dp/0981808204?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0981808204" id="981808204">
+     <image id="svg_943" x="414.432588" y="455.392485" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41Bx2WvzZ5L._SL160_.jpg" height="15" width="10.3125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Pumpkin-Plan-Strategy-Remarkable-Business/dp/1591844886?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591844886" id="1591844886">
+     <image id="svg_944" x="466.457593" y="482.908575" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41S58f95YXL._SL160_.jpg" height="18" width="11.925"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=073521414X" id="073521414X">
+     <image id="svg_945" x="478.95154" y="516.996333" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51jZB0JAHaL._SL160_.jpg" height="27" width="17.8875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/-Myth-Revisited-Small-Businesses-About/dp/0887307280?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0887307280" id="887307280">
+     <image id="svg_946" x="572.296565" y="548.013974" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51MPu8oSjcL._SL160_.jpg" height="22" width="14.575"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Simple-Numbers-Straight-Talk-Profits/dp/0989645231?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0989645231" id="989645231">
+     <image id="svg_947" x="506.060177" y="476.834032" xlink:href="https://images-na.ssl-images-amazon.com/images/I/5110DBv6RDL._SL160_.jpg" height="17" width="11.05"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591845823" id="1591845823">
+     <image id="svg_948" x="463.220602" y="561.14507" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51rnVy7CfyL._SL160_.jpg" height="17" width="11.2625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Automatic-Customer-Creating-Subscription-Business/dp/159184746X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=159184746X" id="159184746X">
+     <image id="svg_949" x="347.537537" y="557.256531" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51HF0N1iJ6L._SL160_.jpg" height="16" width="10.6"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Trust-Me-Lying-Confessions-Manipulator/dp/1591846285?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591846285" id="1591846285">
+     <image id="svg_950" x="624.263289" y="415.24999" xlink:href="https://images-na.ssl-images-amazon.com/images/I/61ZK3KJ0LEL._SL160_.jpg" height="18" width="11.7"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Spys-Guide-Thinking-Strategy/dp/1982917016?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1982917016" id="1982917016">
+     <image id="svg_951" x="620.92572" y="467.610596" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41TAcFcFvdL._SL160_.jpg" height="12" width="7.5"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Conspiracy-Peter-Gawker-Anatomy-Intrigue/dp/0735217645?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0735217645" id="735217645">
+     <image id="svg_952" x="628.029844" y="439.824126" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41svovc7OcL._SL160_.jpg" height="13" width="8.6125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Media-Ethics-Cases-Moral-Reasoning/dp/0205897746?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0205897746" id="205897746">
+     <image id="svg_953" x="644.904238" y="465.500367" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41FKR2Dz3XL._SL160_.jpg" height="12" width="8.7"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Youre-Never-Weird-Internet-Almost/dp/147678566X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=147678566X" id="147678566X">
+     <image id="svg_954" x="644.651675" y="416.357273" xlink:href="https://images-na.ssl-images-amazon.com/images/I/518u6ARcxmL._SL160_.jpg" height="12" width="7.875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Perennial-Seller-Making-Marketing-Lasts/dp/0143109014?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0143109014" id="143109014">
+     <image id="svg_955" x="624.958316" y="486.91321" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51KIMBwcbzL._SL160_.jpg" height="17" width="11.2625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/dp/1591846358?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591846358" id="1591846358">
+     <image id="svg_956" x="662.232363" y="436.771454" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41d%2Baa6UYCL._SL160_.jpg" height="23" width="16.24375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1591847818" id="1591847818">
+     <image id="svg_957" x="681.450817" y="423.17624" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41gED2-t4oL._SL160_.jpg" height="22" width="15.5375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Dataclysm-Identity-What-Online-Offline-Selves/dp/0385347391?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0385347391" id="385347391">
+     <image id="svg_958" x="704.029483" y="428.499633" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41FfUkPRszL._SL160_.jpg" height="12" width="7.8"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Wish-Inform-Tomorrow-Killed-Families/dp/0312243359?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0312243359" id="312243359">
+     <image id="svg_959" x="662.184319" y="408.699922" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51GZ5fsINDL._SL160_.jpg" height="12" width="8.025"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0735211736" id="735211736">
+     <image id="svg_960" x="704.13367" y="402.000701" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51uchbuRn1L._SL160_.jpg" height="21" width="13.9125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Daily-Stoic-Journal-Writing-Reflection/dp/0525534393?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0525534393" id="525534393">
+     <image id="svg_961" x="644.901491" y="439.249817" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41yG4vV9kNL._SL160_.jpg" height="21" width="13.9125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0465050654" id="465050654">
+     <image id="svg_963" x="581.289063" y="150" xlink:href="https://images-na.ssl-images-amazon.com/images/I/410RTQezHYL._SL160_.jpg" height="20" width="13.125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/How-Build-Billion-Dollar-App/dp/0349401373?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0349401373" id="349401373">
+     <image id="svg_964" x="421.243805" y="289.330078" xlink:href="https://images-na.ssl-images-amazon.com/images/I/414VvvaKulL._SL160_.jpg" height="14" width="9.1875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Jab-Right-Hook-Story-Social/dp/006227306X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=006227306X" id="006227306X">
+     <image id="svg_965" x="201.945597" y="255.336015" xlink:href="https://images-na.ssl-images-amazon.com/images/I/61eRCiTDr7L._SL160_.jpg" height="19" width="15.31875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Power-Visual-Storytelling-Visuals-Videos/dp/007182393X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=007182393X" id="007182393X">
+     <image id="svg_966" x="185.086639" y="125.295528" xlink:href="https://images-na.ssl-images-amazon.com/images/I/510q2BMwUDL._SL160_.jpg" height="14" width="14"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Traction-Get-Grip-Your-Business/dp/1936661837?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1936661837" id="1936661837">
+     <image id="svg_967" x="403.158511" y="517.530329" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51s%2BPBMjJ%2BL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Guide-Twitter-Business-Characters/dp/1599184494?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599184494" id="1599184494">
+     <image id="svg_968" x="457.626678" y="126" xlink:href="https://images-na.ssl-images-amazon.com/images/I/510vXf4%2BP3L._SL160_.jpg" height="14" width="11.2"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Guide-LinkedIn-Business/dp/1599185601?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599185601" id="1599185601">
+     <image id="svg_969" x="453.437561" y="148.60582" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51Kh7HlpVSL._SL160_.jpg" height="16" width="12.8"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Guide-YouTube-Business/dp/1599185105?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599185105" id="1599185105">
+     <image id="svg_970" x="489.287519" y="150.324528" xlink:href="https://images-na.ssl-images-amazon.com/images/I/516VYesVa5L._SL160_.jpg" height="15" width="12"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Ultimate-Guide-Local-Business-Marketing/dp/1599185784?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599185784" id="1599185784">
+     <image id="svg_971" x="515.900024" y="89.591413" xlink:href="https://images-na.ssl-images-amazon.com/images/I/517yxnFLqPL._SL160_.jpg" height="20" width="15.875"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/80-20-Sales-Marketing-Definitive/dp/1599185059?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1599185059" id="1599185059">
+     <image id="svg_972" x="446.311819" y="342.20259" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41aXVYHga4L._SL160_.jpg" height="18" width="12.0375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Hypnotic-Writing-Seduce-Persuade-Customers/dp/0470009799?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0470009799" id="470009799">
+     <image id="svg_973" x="257.153935" y="807.087715" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51MhDSaxtyL._SL160_.jpg" height="15" width="9.9375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Words-that-Sell-Products-Services/dp/0071467858?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0071467858" id="71467858">
+     <image id="svg_974" x="262.588472" y="784.834344" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51MEQkF15JL._SL160_.jpg" height="16" width="16"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Growth-Hacking-Silicon-Valleys-Secret/dp/1619616009?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1619616009" id="1619616009">
+     <image id="svg_975" x="446.112549" y="482.307037" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51hMWqAct0L._SL160_.jpg" height="13" width="8.45"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Growth-Hackers-Guide-Galaxy-Marketer/dp/1940715032?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1940715032" id="1940715032">
+     <image id="svg_976" x="431.388508" y="457" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41UuuNEPvAL._SL160_.jpg" height="13" width="9.1"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Influencer-Fast-Track-Professionals-Entrepreneurs/dp/1982977116?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1982977116" id="1982977116">
+     <image id="svg_977" x="270.630661" y="321.01907" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51T8ZVrw%2B5L._SL160_.jpg" height="17" width="11.15625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Purpose-Profit-Starting-Building-Business/dp/1626342903?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1626342903" id="1626342903">
+     <image id="svg_978" x="466.098035" y="513.257912" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41xeJ38gs2L._SL160_.jpg" height="13" width="8.45"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Be-Man-Garrett-J-White/dp/1681029561?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1681029561" id="1681029561">
+     <image id="svg_979" x="199.607984" y="599.604364" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41P5KZAdPfL._SL160_.jpg" height="14" width="8.6625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Inside-Tornado-Strategies-Developing-Hypergrowth/dp/0060745819?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0060745819" id="60745819">
+     <image id="svg_980" x="485.329145" y="683.744316" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51XKYVhpFeL._SL160_.jpg" height="17" width="11.2625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Kingmakers-Content-Marketing-David-Ebner/dp/1717020135?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1717020135" id="1717020135">
+     <image id="svg_981" x="445.980393" y="433.945768" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41MiWh8TpqL._SL160_.jpg" height="13" width="8.69375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Facebook-Advertising-Complete-Dominating-Platform/dp/1717339867?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1717339867" id="1717339867">
+     <image id="svg_982" x="429.00799" y="175.95198" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41HO5USBv6L._SL160_.jpg" height="13" width="8.69375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Instagram-Marketing-Followers-Skyrocket-Influencer/dp/197787052X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=197787052X" id="197787052X">
+     <image id="svg_983" x="365.66768" y="265.249817" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41ohprY%2B7KL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1732265119" id="1732265119">
+     <image id="svg_984" x="435.950043" y="566.772284" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41AEXkVkVKL._SL160_.jpg" height="13" width="8.775"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Artists-Journey-Lifelong-Pursuit-Meaning/dp/1936891549?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1936891549" id="1936891549">
+     <image id="svg_986" x="272.562042" y="347" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41OBNkYAutL._SL160_.jpg" height="16" width="10"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Will-Test-Business-Waste-Money/dp/0997082305?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0997082305" id="997082305">
+     <image id="svg_987" x="214.781242" y="416.000733" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41X4RRTMDuL._SL160_.jpg" height="13" width="8.53125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Invisible-Selling-Machine-Ryan-Deiss/dp/194304600X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=194304600X" id="194304600X">
+     <image id="svg_988" x="150.398209" y="467" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41EGsMWt3uL._SL160_.jpg" height="12" width="8.025"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/SEO-2018-Effective-Strategies-Marketing/dp/1973551845?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1973551845" id="1973551845">
+     <image id="svg_989" x="338.574493" y="127.411514" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51zF1-nZBSL._SL160_.jpg" height="12" width="8.025"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Influencer-Building-Personal-Brand-Social/dp/0806538856?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0806538856" id="806538856">
+     <image id="svg_990" x="303.242679" y="326.199918" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51oxrZwhY8L._SL160_.jpg" height="13" width="8.69375"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/1%-Rule-Process-Achieve-Wildest/dp/1985635488?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1985635488" id="1985635488">
+     <image id="svg_991" x="465.565747" y="586.25055" xlink:href="https://images-na.ssl-images-amazon.com/images/I/419dXau628L._SL160_.jpg" height="13" width="8.45"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Unstoppable-Influence-Fearless-Transform-Lives/dp/0999473530?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0999473530" id="999473530">
+     <image id="svg_992" x="371.567885" y="286.721222" xlink:href="https://images-na.ssl-images-amazon.com/images/I/31DKNd6k7OL._SL160_.jpg" height="12" width="7.8"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Freakishly-Effective-Social-Network-Marketing/dp/1947814982?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1947814982" id="1947814982">
+     <image id="svg_993" x="348.888214" y="340.752808" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51HgbdeVrDL._SL160_.jpg" height="13" width="8.45"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Rise-Youpreneur-Definitive-Go-Future-Proof/dp/1999857941?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1999857941" id="1999857941">
+     <image id="svg_994" x="232.865666" y="387.092825" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51jqUfTOYtL._SL160_.jpg" height="13" width="8.45"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Million-Dollar-One-Person-Business-Great-Money/dp/039957896X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=039957896X" id="039957896X">
+     <image id="svg_995" x="509.066792" y="497.125886" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51lSTYC8mkL._SL160_.jpg" height="12" width="8.025"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Never-Lose-Customer-Again-Lifelong/dp/0735220034?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0735220034" id="735220034">
+     <image id="svg_996" x="308.532451" y="572.443889" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41UGg%2BGiGeL._SL160_.jpg" height="14" width="9.275"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Strategic-Market-Management-David-Aaker/dp/0470317248?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0470317248" id="470317248">
+     <image id="svg_997" x="116.82008" y="764.756033" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51UOFEQnReL._SL160_.jpg" height="15" width="10.03125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Rethink-Your-Marketing-Strategies-Unleash/dp/0999184709?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0999184709" id="999184709">
+     <image id="svg_998" x="247.212765" y="248.163657" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41m2XvmYLnL._SL160_.jpg" height="13" width="8.53125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Accounting-Numberphobic-Survival-Business-Owners/dp/0814434320?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0814434320" id="814434320">
+     <image id="svg_999" x="505.944165" y="456.205145" xlink:href="https://images-na.ssl-images-amazon.com/images/I/510HdObe3RL._SL160_.jpg" height="14" width="9.3625"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Playing-Win-Strategy-Really-Works/dp/142218739X?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=142218739X" id="142218739X">
+     <image id="svg_1000" x="389.256594" y="625.743582" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51tdkEK2iuL._SL160_.jpg" height="13" width="8.6125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Accounting-DeMYSTiFieD-2nd-Leita-Hart/dp/0071763732?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0071763732" id="71763732">
+     <image id="svg_1001" x="133.223667" y="798.512836" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51asp6oi-6L._SL160_.jpg" height="13" width="10.48125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Minute-Manager-Builds-Performing-Teams/dp/0061741205?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0061741205" id="61741205">
+     <image id="svg_1002" x="129.786877" y="766.756032" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51EvQOdrWqL._SL160_.jpg" height="13" width="8.6125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Financial-Intelligence-Revised-Managers-Knowing/dp/1422144119?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1422144119" id="1422144119">
+     <image id="svg_1003" x="106.715822" y="786.12604" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51OBNxhF54L._SL160_.jpg" height="13" width="8.6125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Key-Strategy-Tools-Manager-Winning/dp/0273778862?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0273778862" id="273778862">
+     <image id="svg_1004" x="130.792686" y="784.968029" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41cl4a5QhML._SL160_.jpg" height="12" width="8.1"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Strategic-Brand-Management-Building-Measuring/dp/0132664259?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0132664259" id="132664259">
+     <image id="svg_1005" x="103.509965" y="767.756051" xlink:href="https://images-na.ssl-images-amazon.com/images/I/518fssBZIaL._SL160_.jpg" height="12" width="9"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0143118757" id="143118757">
+     <image id="svg_1006" x="377.408369" y="645.750183" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51vcylss4nL._SL160_.jpg" height="21" width="13.65"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Principles-Fortune-Crafting-Massively-Business/dp/0999623400?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0999623400" id="999623400">
+     <image id="svg_1007" x="421.043945" y="588" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51YxcXtW4NL._SL160_.jpg" height="12" width="8.025"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Membership-Economy-Forever-Transaction-Recurring/dp/0071839321?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0071839321" id="71839321">
+     <image id="svg_1008" x="245.210617" y="606.882175" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51NTqws9hvL._SL160_.jpg" height="14" width="9.275"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Subscription-Marketing-Strategies-Nurturing-Customers/dp/0986406252?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0986406252" id="986406252">
+     <image id="svg_1009" x="305.879059" y="607" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41ewYdhLAxL._SL160_.jpg" height="14" width="9.1"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Subscribed-Subscription-Model-Companys-Future-/dp/0241363667?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0241363667" id="241363667">
+     <image id="svg_1010" x="286.07193" y="607.17841" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41VAJsTCMxL._SL160_.jpg" height="13" width="8.53125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Customer-Success-Innovative-Companies-Recurring/dp/1119167965?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=1119167965" id="1119167965">
+     <image id="svg_1011" x="216.511047" y="567.300171" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51KzisEU0NL._SL160_.jpg" height="13" width="8.6125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Growth-IQ-Smarter-Choices-Business/dp/0525534407?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0525534407" id="525534407">
+     <image id="svg_1012" x="231.976209" y="417.013935" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51sxCVXOjBL._SL160_.jpg" height="13" width="8.6125"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/You-Majored-What-Designing-College/dp/0452296005?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0452296005" id="452296005">
+     <image id="svg_1014" x="185.476611" y="226.607102" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51mtUTOQsjL._SL160_.jpg" height="12" width="7.8"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Niche-Down-Become-Legendary-Different/dp/0692156798?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0692156798" id="692156798">
+     <image id="svg_1015" x="225.825043" y="288.903046" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51yXGtxb38L._SL160_.jpg" height="12" width="8.025"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Guerilla-Marketing-Inexpensive-Strategies-Business/dp/0618785914?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0618785914" id="618785914">
+     <image id="svg_1016" x="244.872115" y="267.001467" xlink:href="https://images-na.ssl-images-amazon.com/images/I/41BF7TGMoCL._SL160_.jpg" height="12" width="8.1"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0241242533" id="241242533">
+     <image id="svg_1017" x="410.494236" y="475.736981" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51d1r-uSGJL._SL160_.jpg" height="12" width="7.8"/>
+    </a>
+    <a xlink:href="https://www.amazon.com/Secrets-Freelance-Writer-Make-Year/dp/0805078037?SubscriptionId=AKIAIJKR6IY4BV5FKK7A&amp;tag=wwwyasivcom-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=0805078037" id="805078037">
+     <image id="svg_1018" x="440.651308" y="726.996359" xlink:href="https://images-na.ssl-images-amazon.com/images/I/51r-iKJ-0jL._SL160_.jpg" height="13" width="8.69375"/>
+    </a>
+    <text font-size="24" id="svg_1019" y="552" x="616" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Blogging</text>
+    <text font-size="24" id="svg_1020" y="229" x="532" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Usability</text>
+    <text font-size="18" id="svg_1024" y="821.6469" x="333.005549" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Writing</text>
+    <text font-size="24" id="svg_1025" y="486.406236" x="313.439571" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Growth</text>
+    <text font-size="24" id="svg_1026" y="33.243592" x="291.693763" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">SEO</text>
+    <text font-size="10" id="svg_1028" y="830.089984" x="98.481009" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Management</text>
+    <text font-size="13" id="svg_1027" y="506.152429" x="138.223348" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">E-Commerce</text>
+   </g>
+  </g>
+ </g>
+</svg>
